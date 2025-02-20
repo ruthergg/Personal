@@ -1,0 +1,1 @@
+great article hboelman running gpu enabled azure custom vision docker container nvidia jetson nano create custom stay tuned something like deepstream could coming soon medium com microsoftazure

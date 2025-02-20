@@ -1,0 +1,1 @@
+rainbow6game crashed game using vulkan api game launch anymore without crashing

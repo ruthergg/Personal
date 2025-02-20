@@ -1,0 +1,1 @@
+androiddev noticed issue upgrading android gradle plugin google compile testing library crashing retrieving resource example detail available github com glureau agp_3_ something new

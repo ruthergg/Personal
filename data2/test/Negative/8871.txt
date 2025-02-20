@@ -1,0 +1,1 @@
+hi first time user problem getting h264 hardware acceleration working firefox 80 nvidia proprietary driver 10xx series gpu ift tt 3ivub46
