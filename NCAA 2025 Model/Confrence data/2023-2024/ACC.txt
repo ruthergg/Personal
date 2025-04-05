@@ -1,0 +1,166 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+,,,
+NC State,84,Boston College,78
+Duke,68,Georgia Tech,72
+Notre Dame,49,Miami (FL),62
+Florida State,70,North Carolina,78
+Syracuse,62,Virginia,84
+Clemson,79,Pittsburgh,70
+Louisville,68,Virginia Tech,75
+Virginia,54,Notre Dame,76
+Pittsburgh,73,Syracuse,81
+Virginia Tech,63,Wake Forest,86
+Wake Forest,84,Boston College,78
+Syracuse,66,Duke,86
+North Carolina,70,Pittsburgh,57
+Georgia Tech,71,Florida State,82
+Clemson,82,Miami (FL),95
+NC State,54,Notre Dame,52
+Louisville,53,Virginia,77
+North Carolina,65,Clemson,55
+Virginia Tech,74,Florida State,77
+Boston College,95,Georgia Tech,87
+Pittsburgh,83,Louisville,70
+Virginia,60,NC State,76
+Duke,67,Notre Dame,59
+Miami (FL),82,Wake Forest,86
+Wake Forest,82,Florida State,87
+Notre Dame,75,Georgia Tech,68
+Duke,75,Pittsburgh,53
+Louisville,80,Miami (FL),71
+North Carolina,67,NC State,54
+Boston College,59,Syracuse,69
+Clemson,72,Virginia Tech,87
+Boston College,78,Clemson,89
+Georgia Tech,79,Duke,84
+NC State,89,Louisville,83
+Syracuse,67,North Carolina,103
+Florida State,67,Notre Dame,58
+Miami (FL),75,Virginia Tech,71
+Virginia,47,Wake Forest,66
+Notre Dame,59,Boston College,63
+Georgia Tech,93,Clemson,90
+Wake Forest,76,NC State,83
+Syracuse,69,Pittsburgh,58
+Florida State,84,Miami (FL),75
+Louisville,70,North Carolina,86
+Virginia Tech,57,Virginia,65
+North Carolina,76,Boston College,66
+Pittsburgh,80,Duke,76
+Clemson,78,Florida State,67
+Virginia,75,Georgia Tech,66
+Virginia Tech,84,NC State,78
+Miami (FL),69,Syracuse,72
+Louisville,65,Wake Forest,90
+Wake Forest,64,North Carolina,85
+Pittsburgh,72,Georgia Tech,64
+Duke,83,Louisville,69
+Florida State,85,Syracuse,69
+Boston College,71,Virginia Tech,76
+Miami (FL),73,Notre Dame,61
+NC State,53,Virginia,59
+Clemson,71,Duke,72
+North Carolina,75,Florida State,68
+Virginia,69,Louisville,52
+Pittsburgh,68,Miami (FL),72
+Boston College,61,Notre Dame,58
+NC State,65,Syracuse,77
+Georgia Tech,67,Virginia Tech,91
+Duke,77,Virginia Tech,67
+Syracuse,75,Boston College,80
+Louisville,64,Clemson,70
+North Carolina,73,Georgia Tech,74
+Miami (FL),68,NC State,74
+Wake Forest,72,Pittsburgh,77
+Notre Dame,53,Virginia,65
+Virginia,66,Clemson,65
+Florida State,92,Louisville,101
+Virginia Tech,74,Miami (FL),82
+Georgia Tech,76,NC State,82
+Duke,84,North Carolina,93
+Notre Dame,60,Pittsburgh,70
+Syracuse,70,Wake Forest,99
+Miami (FL),38,Virginia,60
+Florida State,63,Boston College,62
+Wake Forest,80,Georgia Tech,51
+Clemson,80,North Carolina,76
+Notre Dame,53,Duke,71
+Pittsburgh,67,NC State,64
+Louisville,92,Syracuse,94
+Boston College,65,Duke,80
+Virginia,80,Florida State,76
+Georgia Tech,67,Louisville,79
+North Carolina,75,Miami (FL),72
+Virginia Tech,66,Notre Dame,74
+Clemson,77,Syracuse,68
+NC State,79,Wake Forest,83
+Wake Forest,69,Duke,77
+Louisville,77,Boston College,89
+North Carolina,79,Syracuse,86
+Pittsburgh,74,Virginia,63
+Florida State,75,Virginia Tech,83
+Miami (FL),60,Clemson,77
+Georgia Tech,55,Notre Dame,58
+Miami (FL),77,Boston College,85
+NC State,78,Clemson,77
+Duke,76,Florida State,67
+Syracuse,60,Georgia Tech,65
+Virginia Tech,81,North Carolina,96
+Louisville,59,Pittsburgh,86
+Wake Forest,47,Virginia,49
+Virginia,41,Virginia Tech,75
+Boston College,76,Florida State,84
+Syracuse,87,NC State,83
+Pittsburgh,58,Wake Forest,91
+Clemson,81,Georgia Tech,57
+Notre Dame,72,Louisville,50
+Duke,84,Miami (FL),55
+Florida State,63,Clemson,74
+Georgia Tech,80,Miami (FL),76
+Boston College,70,NC State,81
+Virginia Tech,64,Pittsburgh,79
+Notre Dame,85,Syracuse,88
+North Carolina,54,Virginia,44
+Duke,79,Wake Forest,83
+Miami (FL),71,North Carolina,75
+Pittsburgh,62,Clemson,69
+NC State,83,Florida State,90
+Wake Forest,65,Notre Dame,70
+Virginia Tech,71,Syracuse,84
+Virginia,72,Boston College,68
+Louisville,59,Duke,84
+Pittsburgh,90,Boston College,65
+Virginia,48,Duke,73
+Florida State,76,Georgia Tech,85
+Syracuse,82,Louisville,76
+NC State,70,North Carolina,79
+Clemson,62,Notre Dame,69
+Wake Forest,76,Virginia Tech,87
+Duke,79,NC State,64
+Syracuse,75,Clemson,90
+Virginia Tech,80,Louisville,64
+Notre Dame,51,North Carolina,84
+Florida State,73,Pittsburgh,88
+Georgia Tech,70,Wake Forest,69
+Boston College,67,Miami (FL),57
+North Carolina,84,Duke,79
+Miami (FL),75,Florida State,83
+Boston College,67,Louisville,61
+NC State,73,Pittsburgh,81
+Georgia Tech,57,Virginia,72
+Notre Dame,76,Virginia Tech,82
+Clemson,76,Wake Forest,81
+Miami (FL),65,Boston College,81
+Louisville,85,NC State,94
+Georgia Tech,80,Notre Dame,84
+Boston College,76,Clemson,55
+NC State,83,Syracuse,65
+Florida State,86,Virginia Tech,76
+Notre Dame,59,Wake Forest,72
+NC State,74,Duke,69
+Florida State,67,North Carolina,92
+Wake Forest,69,Pittsburgh,81
+Boston College,60,Virginia,66
+Pittsburgh,65,North Carolina,72
+NC State,73,Virginia,65
+NC State,84,North Carolina,76

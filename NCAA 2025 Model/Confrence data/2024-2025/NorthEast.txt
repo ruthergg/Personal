@@ -1,0 +1,82 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+Le Moyne,62,Long Island University,78
+Stonehill,69,Mercyhurst,76
+Central Connecticut State,74,Saint Francis (PA),59
+Chicago State,64,Wagner,52
+Chicago State,39,Long Island University,53
+Central Connecticut State,62,Mercyhurst,50
+Stonehill,64,Saint Francis (PA),60
+FDU,71,Wagner,59
+Wagner,62,Central Connecticut State,57
+FDU,91,Le Moyne,86
+Mercyhurst,59,Saint Francis (PA),73
+Long Island University,70,Stonehill,60
+Long Island University,54,Central Connecticut State,52
+Stonehill,68,Chicago State,52
+Saint Francis (PA),75,FDU,71
+Mercyhurst,63,Le Moyne,79
+Le Moyne,72,Chicago State,88
+Central Connecticut State,71,FDU,60
+Saint Francis (PA),51,Long Island University,64
+Mercyhurst,69,Wagner,65
+FDU,58,Chicago State,48
+Stonehill,72,Le Moyne,73
+Mercyhurst,63,Long Island University,72
+Saint Francis (PA),68,Wagner,70
+Central Connecticut State,93,Le Moyne,70
+Wagner,66,Mercyhurst,71
+Long Island University,64,Saint Francis (PA),74
+Chicago State,73,Stonehill,75
+Chicago State,64,Central Connecticut State,81
+Long Island University,80,Mercyhurst,85
+Wagner,68,Saint Francis (PA),66
+FDU,65,Stonehill,54
+Le Moyne,74,FDU,78
+Central Connecticut State,63,Long Island University,50
+Saint Francis (PA),58,Mercyhurst,62
+Wagner,61,Stonehill,73
+Long Island University,67,Chicago State,73
+Mercyhurst,67,FDU,60
+Central Connecticut State,71,Stonehill,63
+Le Moyne,61,Wagner,73
+FDU,66,Central Connecticut State,87
+Mercyhurst,78,Chicago State,85
+Le Moyne,78,Saint Francis (PA),86
+Long Island University,60,Wagner,47
+FDU,,Central Connecticut State,
+Saint Francis (PA),81,Chicago State,69
+Wagner,58,FDU,69
+Stonehill,59,Long Island University,62
+Le Moyne,78,Mercyhurst,82
+Mercyhurst,63,Central Connecticut State,73
+Chicago State,49,FDU,91
+Wagner,68,Le Moyne,72
+Saint Francis (PA),74,Stonehill,79
+Mercyhurst,,Central Connecticut State,
+Saint Francis (PA),67,Central Connecticut State,83
+Chicago State,75,Le Moyne,80
+FDU,58,Long Island University,62
+Mercyhurst,73,Stonehill,85
+Central Connecticut State,81,Chicago State,75
+Saint Francis (PA),81,Le Moyne,76
+FDU,60,Mercyhurst,65
+Stonehill,57,Wagner,63
+Stonehill,41,Central Connecticut State,67
+Wagner,64,Chicago State,52
+Long Island University,76,Le Moyne,61
+FDU,80,Saint Francis (PA),85
+Le Moyne,75,Central Connecticut State,84
+Stonehill,69,FDU,82
+Wagner,47,Long Island University,60
+Chicago State,68,Mercyhurst,90
+Le Moyne,,Central Connecticut State,
+Long Island University,74,FDU,55
+Chicago State,71,Saint Francis (PA),80
+Le Moyne,79,Stonehill,85
+Central Connecticut State,55,Wagner,48
+Le Moyne,67,Central Connecticut State,86
+Stonehill,56,FDU,71
+Chicago State,57,Long Island University,68
+Wagner,55,Saint Francis (PA),58
+FDU,72,Central Connecticut State,76
+Saint Francis (PA),71,Long Island University,68

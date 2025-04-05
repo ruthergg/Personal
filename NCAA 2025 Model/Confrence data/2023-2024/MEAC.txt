@@ -1,0 +1,65 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+,,,
+Coppin State,53,Delaware State,55
+Morgan State,74,Maryland-Eastern Shore,75
+Howard,54,North Carolina Central,73
+Norfolk State,79,South Carolina State,72
+Maryland-Eastern Shore,55,Coppin State,58
+Delaware State,78,Morgan State,66
+Norfolk State,58,North Carolina Central,60
+Howard,82,South Carolina State,78
+Maryland-Eastern Shore,61,Howard,72
+Morgan State,89,Coppin State,86
+Maryland-Eastern Shore,63,Delaware State,67
+Norfolk State,65,Howard,61
+North Carolina Central,68,South Carolina State,71
+South Carolina State,66,Delaware State,64
+North Carolina Central,65,Maryland-Eastern Shore,57
+Howard,79,Morgan State,85
+Coppin State,58,Norfolk State,68
+Howard,81,Coppin State,66
+North Carolina Central,69,Delaware State,66
+South Carolina State,63,Maryland-Eastern Shore,53
+Morgan State,73,Norfolk State,83
+Delaware State,64,Norfolk State,65
+Coppin State,46,North Carolina Central,77
+Morgan State,72,South Carolina State,70
+Howard,75,Delaware State,71
+Norfolk State,60,Maryland-Eastern Shore,69
+Morgan State,79,North Carolina Central,72
+Coppin State,65,South Carolina State,77
+Delaware State,66,Coppin State,56
+North Carolina Central,82,Howard,90
+Maryland-Eastern Shore,65,Morgan State,70
+South Carolina State,67,Norfolk State,71
+Morgan State,58,Delaware State,80
+South Carolina State,75,Howard,68
+Coppin State,67,Maryland-Eastern Shore,75
+North Carolina Central,74,Norfolk State,80
+Norfolk State,68,Coppin State,66
+Morgan State,72,Howard,78
+Maryland-Eastern Shore,55,North Carolina Central,88
+Delaware State,62,South Carolina State,69
+Coppin State,69,Howard,78
+Norfolk State,85,Morgan State,82
+Delaware State,81,North Carolina Central,93
+Maryland-Eastern Shore,56,South Carolina State,64
+North Carolina Central,83,Coppin State,58
+Norfolk State,71,Delaware State,85
+Howard,70,Maryland-Eastern Shore,66
+South Carolina State,72,Morgan State,61
+South Carolina State,61,Coppin State,58
+Delaware State,66,Howard,85
+North Carolina Central,79,Morgan State,88
+Maryland-Eastern Shore,50,Norfolk State,69
+Delaware State,59,Maryland-Eastern Shore,67
+Coppin State,60,Morgan State,78
+Howard,58,Norfolk State,77
+South Carolina State,68,North Carolina Central,79
+Coppin State,51,Norfolk State,75
+Maryland-Eastern Shore,81,North Carolina Central,87
+Morgan State,65,Howard,78
+Delaware State,71,South Carolina State,58
+Howard,80,Norfolk State,74
+Delaware State,71,North Carolina Central,58
+Delaware State,67,Howard,70

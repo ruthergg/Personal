@@ -1,0 +1,137 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+,,,
+Louisiana-Monroe,55,Appalachian State,67
+Troy,72,Coastal Carolina,65
+Southern Mississippi,67,Georgia Southern,88
+Arkansas State,90,Georgia State,91
+Texas State,65,James Madison,82
+Louisiana,61,Marshall,75
+South Alabama,61,Old Dominion,59
+Marshall,68,Louisiana-Monroe,57
+Georgia Southern,83,Arkansas State,109
+James Madison,68,Louisiana,61
+Appalachian State,91,South Alabama,84
+Georgia State,73,Southern Mississippi,79
+Coastal Carolina,71,Texas State,63
+Old Dominion,73,Troy,86
+Old Dominion,75,Arkansas State,90
+Coastal Carolina,77,Louisiana,85
+Georgia Southern,76,Louisiana-Monroe,68
+Georgia State,90,South Alabama,76
+James Madison,71,Southern Mississippi,81
+Marshall,79,Texas State,75
+Appalachian State,62,Troy,66
+Georgia Southern,74,Marshall,79
+Louisiana,73,Troy,79
+Texas State,82,Arkansas State,85
+Appalachian State,70,Coastal Carolina,45
+Old Dominion,70,Georgia State,77
+South Alabama,55,James Madison,89
+Southern Mississippi,71,Louisiana-Monroe,58
+Louisiana,84,Arkansas State,77
+Old Dominion,75,Coastal Carolina,79
+Georgia Southern,62,Georgia State,90
+Appalachian State,59,James Madison,55
+Texas State,67,Louisiana-Monroe,54
+South Alabama,91,Marshall,85
+Southern Mississippi,56,Troy,82
+Georgia State,68,Appalachian State,76
+Arkansas State,66,Southern Mississippi,69
+Louisiana,86,Texas State,68
+Coastal Carolina,70,Georgia Southern,73
+Louisiana-Monroe,70,James Madison,89
+Marshall,66,Old Dominion,91
+Troy,71,South Alabama,74
+Coastal Carolina,59,Appalachian State,88
+Georgia State,70,Georgia Southern,86
+Marshall,52,James Madison,67
+Louisiana-Monroe,80,Old Dominion,73
+Louisiana,88,South Alabama,79
+Troy,63,Southern Mississippi,64
+Arkansas State,79,Texas State,72
+Southern Mississippi,79,Coastal Carolina,63
+Georgia State,68,Marshall,77
+James Madison,78,Old Dominion,62
+Texas State,65,Troy,78
+Georgia Southern,74,Appalachian State,84
+South Alabama,66,Louisiana-Monroe,80
+Arkansas State,75,Louisiana,81
+James Madison,76,Appalachian State,82
+Georgia State,83,Coastal Carolina,85
+Southern Mississippi,67,Marshall,83
+Georgia Southern,76,Old Dominion,70
+South Alabama,79,Troy,83
+Texas State,46,Louisiana,66
+Arkansas State,82,Louisiana-Monroe,85
+Southern Mississippi,71,Arkansas State,78
+Louisiana-Monroe,72,Louisiana,80
+Troy,84,Georgia Southern,63
+Appalachian State,81,Georgia State,71
+Coastal Carolina,67,James Madison,105
+Old Dominion,83,Marshall,76
+South Alabama,66,Texas State,74
+Louisiana-Monroe,80,Arkansas State,95
+Appalachian State,85,Georgia Southern,84
+Troy,78,Georgia State,74
+Old Dominion,63,James Madison,78
+South Alabama,60,Louisiana,80
+Coastal Carolina,74,Marshall,91
+Southern Mississippi,55,Texas State,60
+James Madison,77,Arkansas State,73
+Georgia State,78,Louisiana,69
+Coastal Carolina,75,Louisiana-Monroe,79
+Georgia Southern,65,South Alabama,78
+Old Dominion,73,Southern Mississippi,78
+Appalachian State,56,Texas State,63
+Marshall,66,Troy,82
+Marshall,58,Appalachian State,73
+Georgia Southern,75,Coastal Carolina,82
+Georgia State,63,James Madison,83
+Louisiana,68,Old Dominion,60
+Texas State,55,South Alabama,72
+Louisiana-Monroe,68,Southern Mississippi,59
+Arkansas State,82,Troy,71
+Louisiana,73,Appalachian State,85
+Marshall,67,Coastal Carolina,74
+Georgia Southern,80,James Madison,87
+Georgia State,68,Old Dominion,65
+Arkansas State,76,South Alabama,73
+Texas State,74,Southern Mississippi,78
+Louisiana-Monroe,57,Troy,85
+Coastal Carolina,71,Georgia State,72
+James Madison,84,Marshall,58
+Troy,71,Arkansas State,79
+Texas State,76,Georgia Southern,84
+Louisiana,59,Louisiana-Monroe,66
+Appalachian State,82,Old Dominion,67
+South Alabama,83,Southern Mississippi,64
+South Alabama,78,Arkansas State,95
+James Madison,80,Georgia Southern,74
+Texas State,68,Georgia State,59
+Troy,84,Louisiana-Monroe,78
+Appalachian State,65,Marshall,58
+Coastal Carolina,59,Old Dominion,75
+Louisiana,71,Southern Mississippi,82
+Louisiana-Monroe,55,Texas State,73
+Old Dominion,64,Appalachian State,89
+Arkansas State,71,Coastal Carolina,60
+Marshall,73,Georgia Southern,87
+James Madison,84,Georgia State,78
+Troy,87,Louisiana,73
+Southern Mississippi,70,South Alabama,73
+Arkansas State,57,Appalachian State,80
+James Madison,86,Coastal Carolina,76
+Old Dominion,75,Georgia Southern,92
+Marshall,79,Georgia State,82
+Southern Mississippi,61,Louisiana,77
+Louisiana-Monroe,69,South Alabama,80
+Troy,79,Texas State,82
+Marshall,86,Georgia State,74
+Texas State,75,Southern Mississippi,59
+Georgia Southern,80,Appalachian State,85
+Louisiana,62,Arkansas State,89
+Marshall,64,James Madison,81
+Texas State,74,Troy,68
+Arkansas State,67,Appalachian State,65
+Texas State,68,James Madison,73
+Arkansas State,71,James Madison,91

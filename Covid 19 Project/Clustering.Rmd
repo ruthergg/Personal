@@ -1,0 +1,62 @@
+---
+title: "Untitled"
+output: html_document
+date: "2025-04-02"
+---
+
+```{r}
+library("factoextra")
+library("cluster")
+```
+
+```{r}
+data <- read.csv("Per_100,000Daily.csv")
+```
+
+```{r}
+rownames(data) <- data$Unnamed..0
+drop <- c("Unnamed..0")
+data = data[,!(names(data) %in% drop)]
+
+```
+
+```{r}
+km.out <-  kmeans(data, 3, nstart = 20)
+km.out
+```
+
+```{r}
+fviz_cluster(km.out, data = data,
+             palette=c("red", "blue", "darkgreen"),
+             ellipse.type = "euclid",
+             star.plot = T,
+             repel = T,
+             ggtheme = theme())
+```
+
+```{r}
+fviz_nbclust(data, kmeans, method = "wss")
+```
+
+```{r}
+gap_stat <- clusGap(data,
+                    FUN = kmeans,
+                    nstart = 20,
+                    K.max = 10,
+                    B = 50)
+
+#plot number of clusters vs. gap statistic
+fviz_gap_stat(gap_stat)
+```
+```{r}
+ff <- km.out[1]
+```
+
+```{r}
+clustersassignments <- data.frame(ff)
+```
+
+```{r}
+write.csv(clustersassignments,"CA.csv")
+```
+

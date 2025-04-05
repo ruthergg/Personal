@@ -1,0 +1,77 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+Massachusetts-Lowell,73,Albany (NY),69
+Maryland-Baltimore County,82,Binghamton,87
+Maine,55,Bryant,81
+Vermont,60,New Hampshire,40
+Binghamton,71,Maine,82
+Vermont,67,Massachusetts-Lowell,63
+Albany (NY),61,New Hampshire,57
+Maryland-Baltimore County,87,NJIT,64
+Vermont,53,Bryant,73
+Albany (NY),66,Maine,87
+NJIT,62,Massachusetts-Lowell,70
+Binghamton,72,New Hampshire,79
+Bryant,89,Albany (NY),79
+New Hampshire,79,Maryland-Baltimore County,76
+Maine,57,NJIT,44
+Binghamton,64,Vermont,72
+Albany (NY),70,Binghamton,65
+Massachusetts-Lowell,62,Bryant,85
+Maine,87,Maryland-Baltimore County,62
+New Hampshire,59,NJIT,64
+Maryland-Baltimore County,92,Albany (NY),87
+Maine,86,Massachusetts-Lowell,85
+Bryant,95,New Hampshire,76
+NJIT,64,Vermont,68
+NJIT,62,Albany (NY),68
+Binghamton,69,Bryant,83
+New Hampshire,80,Massachusetts-Lowell,97
+Maryland-Baltimore County,80,Vermont,63
+Vermont,72,Binghamton,75
+New Hampshire,46,Maine,71
+Bryant,92,Maryland-Baltimore County,86
+Massachusetts-Lowell,62,NJIT,83
+Binghamton,65,Albany (NY),61
+Massachusetts-Lowell,83,Maryland-Baltimore County,67
+Bryant,92,NJIT,70
+Maine,49,Vermont,55
+Massachusetts-Lowell,54,Binghamton,66
+Albany (NY),68,Bryant,63
+NJIT,74,Maine,78
+Maryland-Baltimore County,78,New Hampshire,79
+Vermont,68,Albany (NY),62
+Bryant,78,Binghamton,71
+Maryland-Baltimore County,50,Maine,73
+NJIT,69,New Hampshire,80
+NJIT,66,Bryant,88
+Binghamton,77,Maryland-Baltimore County,81
+Albany (NY),90,Massachusetts-Lowell,88
+New Hampshire,59,Vermont,79
+Maryland-Baltimore County,79,Bryant,81
+Vermont,65,Maine,61
+Massachusetts-Lowell,79,New Hampshire,80
+Binghamton,75,NJIT,71
+Maine,68,Albany (NY),79
+New Hampshire,60,Binghamton,79
+Maryland-Baltimore County,79,Massachusetts-Lowell,98
+Bryant,55,Vermont,59
+New Hampshire,71,Albany (NY),60
+Maine,69,Binghamton,71
+NJIT,91,Maryland-Baltimore County,95
+Massachusetts-Lowell,61,Vermont,85
+Albany (NY),78,Maryland-Baltimore County,74
+Bryant,79,Massachusetts-Lowell,78
+Maine,73,New Hampshire,66
+Vermont,71,NJIT,61
+Bryant,80,Maine,72
+Vermont,79,Maryland-Baltimore County,69
+Binghamton,53,Massachusetts-Lowell,79
+Albany (NY),86,NJIT,59
+NJIT,75,Binghamton,72
+New Hampshire,56,Bryant,90
+Massachusetts-Lowell,70,Maine,71
+Albany (NY),71,Vermont,79
+Binghamton,66,Albany (NY),69
+Maryland-Baltimore County,74,Bryant,85
+Massachusetts-Lowell,64,Maine,72
+New Hampshire,57,Vermont,64

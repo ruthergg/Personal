@@ -1,0 +1,145 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+Oklahoma,79,Alabama,107
+Missouri,68,Auburn,84
+Florida,100,Kentucky,106
+Vanderbilt,80,Louisiana State,72
+Georgia,51,Mississippi,63
+South Carolina,50,Mississippi State,85
+Arkansas,52,Tennessee,76
+Texas,60,Texas A&M,80
+Tennessee,43,Florida,73
+Kentucky,69,Georgia,82
+Louisiana State,67,Missouri,83
+Auburn,87,Texas,82
+Mississippi State,76,Vanderbilt,64
+Mississippi,73,Arkansas,66
+Texas A&M,80,Oklahoma,78
+Alabama,88,South Carolina,68
+Florida,71,Arkansas,63
+Oklahoma,62,Georgia,72
+Louisiana State,65,Mississippi,77
+Kentucky,95,Mississippi State,90
+Vanderbilt,66,Missouri,75
+Auburn,66,South Carolina,63
+Tennessee,74,Texas,70
+Alabama,94,Texas A&M,88
+Mississippi,74,Alabama,64
+Mississippi State,66,Auburn,88
+Missouri,83,Florida,82
+Texas A&M,69,Kentucky,81
+Arkansas,74,Louisiana State,78
+Texas,77,Oklahoma,73
+Georgia,56,Tennessee,74
+South Carolina,63,Vanderbilt,66
+Texas,60,Florida,84
+Auburn,70,Georgia,68
+Alabama,102,Kentucky,97
+Mississippi,81,Mississippi State,84
+Arkansas,65,Missouri,83
+South Carolina,62,Oklahoma,82
+Louisiana State,57,Texas A&M,68
+Tennessee,75,Vanderbilt,76
+Vanderbilt,87,Alabama,103
+Mississippi State,56,Tennessee,68
+Missouri,53,Texas,61
+Georgia,65,Arkansas,68
+Texas A&M,63,Mississippi,62
+Florida,70,South Carolina,69
+Louisiana State,73,Alabama,80
+Oklahoma,65,Arkansas,62
+Tennessee,51,Auburn,53
+Georgia,59,Florida,89
+Mississippi,75,Missouri,83
+Mississippi State,65,South Carolina,60
+Texas A&M,69,Texas,70
+Kentucky,69,Vanderbilt,74
+South Carolina,60,Georgia,71
+Kentucky,78,Tennessee,73
+Oklahoma,68,Texas A&M,75
+Auburn,87,Louisiana State,74
+Texas,69,Mississippi,72
+Alabama,88,Mississippi State,84
+Georgia,69,Alabama,90
+Arkansas,89,Kentucky,79
+Texas,89,Louisiana State,58
+Auburn,92,Mississippi,82
+Missouri,88,Mississippi State,61
+Vanderbilt,67,Oklahoma,97
+Texas A&M,76,South Carolina,72
+Florida,44,Tennessee,64
+Oklahoma,70,Auburn,98
+Vanderbilt,75,Florida,86
+Kentucky,84,Mississippi,98
+Louisiana State,62,Georgia,81
+Missouri,81,Tennessee,85
+Arkansas,78,Texas,70
+Alabama,85,Arkansas,81
+Florida,90,Auburn,81
+Mississippi State,76,Georgia,75
+South Carolina,57,Kentucky,80
+Mississippi,72,Louisiana State,70
+Texas A&M,67,Missouri,64
+Tennessee,70,Oklahoma,52
+Texas,78,Vanderbilt,86
+Tennessee,64,Kentucky,75
+Florida,81,Mississippi State,68
+Alabama,103,Texas,80
+Georgia,53,Texas A&M,69
+Auburn,80,Vanderbilt,68
+Louisiana State,58,Arkansas,70
+Oklahoma,58,Missouri,82
+Mississippi,72,South Carolina,68
+Auburn,94,Alabama,85
+South Carolina,67,Florida,88
+Missouri,87,Georgia,74
+Mississippi State,81,Mississippi,71
+Louisiana State,82,Oklahoma,79
+Vanderbilt,76,Tennessee,81
+Kentucky,78,Texas,82
+Arkansas,61,Texas A&M,69
+Oklahoma,63,Florida,85
+South Carolina,67,Louisiana State,81
+Texas A&M,54,Mississippi State,70
+Arkansas,60,Auburn,67
+Vanderbilt,61,Kentucky,82
+Alabama,98,Missouri,110
+Kentucky,83,Alabama,96
+Missouri,85,Arkansas,92
+Georgia,70,Auburn,82
+Florida,79,Louisiana State,65
+Mississippi State,87,Oklahoma,93
+Texas,69,South Carolina,84
+Tennessee,77,Texas A&M,69
+Mississippi,72,Vanderbilt,77
+Mississippi State,73,Alabama,111
+Florida,83,Georgia,88
+Tennessee,65,Louisiana State,59
+South Carolina,71,Missouri,101
+Texas,81,Arkansas,86
+Mississippi,76,Auburn,106
+Kentucky,83,Oklahoma,82
+Vanderbilt,86,Texas A&M,84
+Texas A&M,70,Florida,89
+Auburn,94,Kentucky,78
+Oklahoma,84,Mississippi,87
+Louisiana State,69,Mississippi State,81
+Arkansas,53,South Carolina,72
+Alabama,76,Tennessee,79
+Georgia,83,Texas,67
+Missouri,93,Vanderbilt,97
+Louisiana State,64,Kentucky,95
+Texas,87,Mississippi State,82
+Georgia,73,South Carolina,64
+Auburn,72,Texas A&M,83
+Arkansas,90,Vanderbilt,77
+Florida,99,Alabama,94
+Tennessee,76,Mississippi,78
+Missouri,84,Oklahoma,96
+Mississippi State,92,Arkansas,93
+Alabama,93,Auburn,91
+Mississippi,71,Florida,90
+Vanderbilt,68,Georgia,79
+Texas A&M,66,Louisiana State,52
+Kentucky,91,Missouri,83
+South Carolina,65,Tennessee,75
+Oklahoma,76,Texas,72

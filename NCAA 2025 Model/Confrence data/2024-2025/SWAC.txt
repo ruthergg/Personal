@@ -1,0 +1,109 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+Arkansas-Pine Bluff,79,Alabama A&M,89
+Mississippi Valley State,55,Alabama State,84
+Jackson State,72,Alcorn State,69
+Bethune-Cookman,62,Florida A&M,55
+Grambling,55,Prairie View,73
+Southern,67,Texas Southern,58
+Mississippi Valley State,67,Alabama A&M,79
+Arkansas-Pine Bluff,91,Alabama State,93
+Southern,84,Prairie View,80
+Grambling,66,Texas Southern,71
+Alabama A&M,52,Alcorn State,62
+Bethune-Cookman,65,Grambling,59
+Alabama State,70,Jackson State,77
+Prairie View,74,Mississippi Valley State,65
+Florida A&M,57,Southern,91
+Alabama State,65,Alcorn State,67
+Prairie View,75,Arkansas-Pine Bluff,64
+Florida A&M,72,Grambling,79
+Alabama A&M,93,Jackson State,103
+Texas Southern,82,Mississippi Valley State,53
+Bethune-Cookman,53,Southern,69
+Alabama State,69,Alabama A&M,65
+Mississippi Valley State,58,Bethune-Cookman,83
+Arkansas-Pine Bluff,76,Florida A&M,86
+Jackson State,79,Prairie View,70
+Grambling,60,Southern,67
+Alcorn State,57,Texas Southern,66
+Arkansas-Pine Bluff,64,Bethune-Cookman,73
+Mississippi Valley State,53,Florida A&M,83
+Alcorn State,78,Prairie View,70
+Jackson State,73,Texas Southern,81
+Texas Southern,82,Alabama A&M,78
+Prairie View,63,Alabama State,66
+Florida A&M,65,Alcorn State,64
+Southern,83,Arkansas-Pine Bluff,67
+Bethune-Cookman,81,Jackson State,86
+Grambling,65,Mississippi Valley State,54
+Prairie View,82,Alabama A&M,98
+Texas Southern,80,Alabama State,69
+Bethune-Cookman,61,Alcorn State,70
+Grambling,81,Arkansas-Pine Bluff,77
+Florida A&M,72,Jackson State,62
+Southern,63,Mississippi Valley State,42
+Mississippi Valley State,79,Arkansas-Pine Bluff,76
+Alabama State,64,Bethune-Cookman,67
+Alabama A&M,79,Florida A&M,95
+Jackson State,65,Grambling,50
+Alcorn State,69,Southern,74
+Prairie View,63,Texas Southern,79
+Alabama A&M,75,Bethune-Cookman,89
+Alabama State,67,Florida A&M,66
+Alcorn State,60,Grambling,53
+Jackson State,89,Southern,91
+Texas Southern,68,Arkansas-Pine Bluff,69
+Southern,81,Alabama A&M,68
+Grambling,77,Alabama State,67
+Arkansas-Pine Bluff,60,Alcorn State,79
+Mississippi Valley State,44,Jackson State,92
+Bethune-Cookman,85,Prairie View,82
+Florida A&M,66,Texas Southern,64
+Grambling,72,Alabama A&M,61
+Southern,81,Alabama State,82
+Mississippi Valley State,39,Alcorn State,86
+Arkansas-Pine Bluff,78,Jackson State,94
+Florida A&M,78,Prairie View,67
+Bethune-Cookman,80,Texas Southern,77
+Alabama State,75,Arkansas-Pine Bluff,63
+Alcorn State,78,Bethune-Cookman,74
+Jackson State,71,Florida A&M,76
+Texas Southern,67,Grambling,60
+Alabama A&M,82,Mississippi Valley State,70
+Prairie View,60,Southern,72
+Alabama A&M,75,Arkansas-Pine Bluff,61
+Jackson State,84,Bethune-Cookman,71
+Alcorn State,76,Florida A&M,85
+Prairie View,48,Grambling,70
+Alabama State,79,Mississippi Valley State,56
+Texas Southern,57,Southern,66
+Bethune-Cookman,68,Alabama A&M,64
+Florida A&M,59,Alabama State,60
+Southern,71,Grambling,64
+Alcorn State,63,Jackson State,71
+Arkansas-Pine Bluff,75,Prairie View,64
+Mississippi Valley State,38,Texas Southern,79
+Florida A&M,66,Alabama A&M,77
+Bethune-Cookman,70,Alabama State,68
+Mississippi Valley State,56,Prairie View,64
+Arkansas-Pine Bluff,56,Texas Southern,81
+Alabama A&M,52,Alabama State,94
+Prairie View,55,Alcorn State,71
+Southern,69,Bethune-Cookman,70
+Grambling,68,Florida A&M,73
+Texas Southern,52,Jackson State,67
+Arkansas-Pine Bluff,83,Mississippi Valley State,58
+Texas Southern,75,Alcorn State,59
+Grambling,71,Bethune-Cookman,78
+Southern,73,Florida A&M,70
+Prairie View,74,Jackson State,88
+Jackson State,76,Arkansas-Pine Bluff,69
+Alabama A&M,51,Grambling,67
+Alcorn State,72,Mississippi Valley State,64
+Alabama State,66,Southern,65
+Alcorn State,65,Arkansas-Pine Bluff,63
+Florida A&M,75,Bethune-Cookman,76
+Alabama State,59,Grambling,47
+Jackson State,66,Mississippi Valley State,62
+Texas Southern,80,Prairie View,68
+Alabama A&M,57,Southern,71

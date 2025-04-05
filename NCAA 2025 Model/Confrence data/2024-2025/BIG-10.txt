@@ -1,0 +1,181 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+Northwestern,79,Iowa,80
+Washington,58,UCLA,69
+Michigan,67,Wisconsin,64
+Ohio State,59,Maryland,83
+Michigan State,90,Minnesota,72
+Oregon,68,Southern California,60
+Purdue,70,Penn State,81
+Illinois,66,Northwestern,70
+Iowa,83,Michigan,85
+Nebraska,52,Michigan State,89
+Rutgers,66,Ohio State,80
+Southern California,85,Washington,61
+UCLA,73,Oregon,71
+Maryland,78,Purdue,83
+Minnesota,67,Indiana,82
+Wisconsin,80,Illinois,86
+Penn State,76,Rutgers,80
+Indiana,68,Nebraska,85
+Rutgers,74,Indiana,84
+Purdue,81,Minnesota,61
+Illinois,109,Oregon,77
+Northwestern,80,Penn State,84
+Maryland,69,Washington,75
+Michigan State,69,Ohio State,62
+Iowa,85,Wisconsin,116
+UCLA,58,Nebraska,66
+Michigan,85,Southern California,74
+Maryland,79,Oregon,83
+Indiana,77,Penn State,71
+Northwestern,61,Purdue,79
+Illinois,81,Washington,77
+Ohio State,89,Minnesota,88
+Wisconsin,75,Rutgers,63
+Nebraska,87,Iowa,97
+Michigan,94,UCLA,75
+Penn State,52,Illinois,91
+Southern California,69,Indiana,82
+Washington,54,Michigan State,88
+Oregon,73,Ohio State,71
+Purdue,68,Rutgers,50
+UCLA,61,Maryland,79
+Minnesota,59,Wisconsin,80
+Southern California,82,Illinois,72
+Indiana,60,Iowa,85
+Washington,75,Michigan,91
+Michigan State,78,Northwestern,68
+Oregon,82,Penn State,81
+Nebraska,68,Purdue,104
+Minnesota,71,Maryland,77
+UCLA,68,Rutgers,75
+Illinois,94,Indiana,69
+Iowa,89,Southern California,99
+Ohio State,68,Wisconsin,70
+Penn State,85,Michigan State,90
+Purdue,69,Washington,58
+Michigan,81,Minnesota,84
+Rutgers,85,Nebraska,82
+Maryland,74,Northwestern,76
+Indiana,77,Ohio State,76
+Iowa,70,UCLA,94
+Purdue,65,Oregon,58
+Wisconsin,84,Southern California,69
+Nebraska,66,Maryland,69
+Northwestern,76,Michigan,80
+Illinois,78,Michigan State,80
+Rutgers,72,Penn State,80
+Minnesota,72,Iowa,67
+Washington,71,Oregon,82
+Ohio State,73,Purdue,70
+Wisconsin,83,UCLA,85
+Southern California,78,Nebraska,73
+Indiana,70,Northwestern,79
+Maryland,91,Illinois,70
+Penn State,75,Iowa,76
+Michigan,64,Purdue,91
+UCLA,65,Washington,60
+Oregon,69,Minnesota,77
+Michigan State,81,Rutgers,74
+Northwestern,74,Illinois,83
+Maryland,79,Indiana,78
+Nebraska,55,Wisconsin,83
+Penn State,72,Michigan,76
+Iowa,65,Ohio State,82
+UCLA,82,Southern California,76
+Minnesota,51,Michigan State,73
+Wisconsin,68,Maryland,76
+Rutgers,79,Northwestern,72
+Illinois,74,Nebraska,80
+Ohio State,83,Penn State,64
+Oregon,52,UCLA,78
+Indiana,76,Purdue,81
+Washington,71,Minnesota,68
+Wisconsin,75,Northwestern,69
+Michigan,66,Rutgers,63
+Michigan State,64,Southern California,70
+Ohio State,79,Illinois,87
+Nebraska,77,Oregon,71
+Purdue,90,Iowa,81
+Southern California,75,Northwestern,77
+Minnesota,69,Penn State,61
+Michigan State,61,UCLA,63
+Indiana,64,Wisconsin,76
+Oregon,76,Michigan,80
+Illinois,73,Rutgers,82
+Nebraska,86,Washington,72
+Maryland,70,Ohio State,73
+Southern California,72,Purdue,90
+Michigan,70,Indiana,67
+Wisconsin,74,Iowa,63
+Oregon,74,Michigan State,86
+Illinois,95,Minnesota,74
+Penn State,54,UCLA,78
+Northwestern,71,Washington,76
+Rutgers,81,Maryland,90
+Ohio State,71,Nebraska,79
+UCLA,78,Illinois,83
+Purdue,73,Michigan,75
+Indiana,71,Michigan State,67
+Northwestern,75,Oregon,81
+Penn State,67,Southern California,92
+Washington,69,Ohio State,93
+Iowa,84,Rutgers,73
+Maryland,83,Nebraska,75
+UCLA,72,Indiana,68
+Michigan State,79,Illinois,65
+Washington,75,Penn State,73
+Wisconsin,94,Purdue,84
+Minnesota,69,Southern California,66
+Iowa,75,Maryland,101
+Nebraska,68,Northwestern,64
+Michigan,86,Ohio State,83
+Rutgers,57,Oregon,75
+Purdue,66,Michigan State,75
+Minnesota,64,UCLA,61
+Illinois,74,Wisconsin,95
+Oregon,80,Iowa,78
+Nebraska,72,Penn State,89
+Rutgers,89,Washington,85
+Southern California,71,Maryland,88
+Northwestern,70,Ohio State,49
+Michigan State,75,Michigan,62
+Washington,79,Iowa,85
+Penn State,69,Minnesota,60
+Oregon,77,Wisconsin,73
+Purdue,58,Indiana,73
+Southern California,85,Rutgers,95
+Ohio State,61,UCLA,69
+Michigan,49,Nebraska,46
+Iowa,61,Illinois,81
+Northwestern,75,Minnesota,63
+Washington,62,Wisconsin,88
+Penn State,78,Indiana,83
+Michigan State,58,Maryland,55
+Ohio State,87,Southern California,82
+Rutgers,82,Michigan,84
+Iowa,57,Northwestern,68
+UCLA,66,Purdue,76
+Minnesota,67,Nebraska,65
+Southern California,61,Oregon,82
+Maryland,68,Penn State,64
+Indiana,78,Washington,62
+Illinois,93,Michigan,73
+Wisconsin,62,Michigan State,71
+UCLA,73,Northwestern,69
+Nebraska,114,Ohio State,116
+Indiana,64,Oregon,73
+Rutgers,71,Purdue,100
+Maryland,71,Michigan,65
+Wisconsin,74,Minnesota,67
+Washington,61,Southern California,92
+Michigan State,91,Iowa,84
+Purdue,80,Illinois,88
+Ohio State,60,Indiana,66
+Northwestern,61,Maryland,74
+Southern California,63,UCLA,90
+Penn State,86,Wisconsin,75
+Michigan,62,Michigan State,79
+Iowa,83,Nebraska,68
+Minnesota,67,Rutgers,75
+Oregon,80,Washington,73

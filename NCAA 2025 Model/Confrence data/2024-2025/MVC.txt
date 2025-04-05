@@ -1,0 +1,132 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+Evansville,61,Murray State,63
+Bradley,83,Southern Illinois,60
+Illinois State,97,Belmont,99
+Northern Iowa,83,Illinois-Chicago,56
+Drake,66,Valparaiso,60
+Indiana State,80,Missouri State,77
+Murray State,74,Indiana State,84
+Valparaiso,75,Bradley,81
+Belmont,46,Drake,65
+Missouri State,40,Evansville,57
+Illinois-Chicago,73,Illinois State,67
+Southern Illinois,67,Northern Iowa,78
+Drake,70,Illinois-Chicago,74
+Bradley,90,Indiana State,89
+Valparaiso,73,Missouri State,72
+Belmont,70,Northern Iowa,76
+Evansville,68,Southern Illinois,53
+Illinois State,74,Murray State,68
+Illinois-Chicago,87,Belmont,92
+Missouri State,60,Bradley,69
+Indiana State,66,Evansville,62
+Northern Iowa,73,Valparaiso,80
+Murray State,66,Drake,59
+Southern Illinois,54,Illinois State,85
+Illinois-Chicago,80,Missouri State,63
+Southern Illinois,86,Belmont,90
+Drake,64,Bradley,57
+Illinois State,51,Evansville,69
+Murray State,71,Northern Iowa,68
+Indiana State,95,Valparaiso,98
+Evansville,40,Drake,63
+Northern Iowa,85,Illinois State,84
+Bradley,61,Illinois-Chicago,60
+Belmont,84,Indiana State,79
+Valparaiso,47,Murray State,58
+Missouri State,78,Southern Illinois,88
+Valparaiso,64,Belmont,71
+Evansville,56,Northern Iowa,73
+Indiana State,65,Bradley,118
+Illinois State,62,Drake,66
+Murray State,93,Illinois-Chicago,97
+Southern Illinois,73,Missouri State,51
+Belmont,85,Evansville,82
+Missouri State,68,Illinois State,74
+Drake,71,Indiana State,53
+Bradley,74,Murray State,61
+Northern Iowa,49,Southern Illinois,73
+Illinois-Chicago,81,Valparaiso,74
+Bradley,89,Belmont,77
+Indiana State,81,Illinois State,85
+Missouri State,68,Northern Iowa,79
+Valparaiso,71,Drake,81
+Illinois-Chicago,78,Evansville,67
+Murray State,74,Southern Illinois,64
+Illinois State,57,Bradley,61
+Southern Illinois,89,Illinois-Chicago,85
+Northern Iowa,74,Indiana State,56
+Drake,69,Missouri State,62
+Belmont,95,Murray State,77
+Evansville,78,Valparaiso,68
+Southern Illinois,79,Valparaiso,75
+Illinois-Chicago,93,Bradley,70
+Northern Iowa,52,Drake,66
+Murray State,74,Evansville,78
+Belmont,78,Illinois State,81
+Missouri State,67,Indiana State,72
+Valparaiso,78,Illinois State,86
+Indiana State,88,Illinois-Chicago,83
+Murray State,56,Missouri State,77
+Drake,75,Southern Illinois,65
+Evansville,80,Belmont,75
+Bradley,69,Northern Iowa,83
+Drake,55,Murray State,45
+Belmont,80,Bradley,77
+Southern Illinois,68,Evansville,59
+Illinois State,81,Illinois-Chicago,79
+Valparaiso,62,Indiana State,80
+Northern Iowa,66,Missouri State,61
+Missouri State,68,Belmont,85
+Indiana State,81,Drake,85
+Bradley,80,Evansville,74
+Illinois State,65,Northern Iowa,68
+Illinois-Chicago,67,Southern Illinois,79
+Murray State,74,Valparaiso,56
+Illinois-Chicago,53,Murray State,63
+Indiana State,73,Northern Iowa,88
+Southern Illinois,64,Bradley,78
+Drake,84,Illinois State,77
+Evansville,54,Missouri State,71
+Belmont,86,Valparaiso,101
+Illinois State,76,Indiana State,85
+Belmont,73,Southern Illinois,68
+Bradley,61,Drake,59
+Valparaiso,69,Evansville,79
+Missouri State,58,Illinois-Chicago,63
+Northern Iowa,74,Murray State,67
+Northern Iowa,82,Belmont,75
+Illinois-Chicago,57,Drake,74
+Bradley,71,Illinois State,82
+Evansville,79,Indiana State,74
+Murray State,62,Southern Illinois,60
+Missouri State,64,Valparaiso,66
+Indiana State,75,Belmont,77
+Murray State,83,Bradley,85
+Evansville,77,Illinois-Chicago,82
+Illinois State,70,Missouri State,68
+Valparaiso,83,Southern Illinois,79
+Drake,64,Northern Iowa,58
+Indiana State,75,Murray State,85
+Illinois State,79,Southern Illinois,88
+Drake,65,Evansville,61
+Belmont,74,Missouri State,65
+Illinois-Chicago,52,Northern Iowa,74
+Bradley,76,Valparaiso,65
+Murray State,60,Belmont,70
+Northern Iowa,56,Bradley,73
+Missouri State,60,Drake,68
+Evansville,53,Illinois State,62
+Valparaiso,73,Illinois-Chicago,77
+Southern Illinois,77,Indiana State,95
+Missouri State,54,Illinois State,70
+Valparaiso,67,Illinois-Chicago,50
+Evansville,53,Murray State,74
+Indiana State,85,Southern Illinois,86
+Illinois State,63,Belmont,76
+Murray State,62,Bradley,70
+Southern Illinois,53,Drake,70
+Valparaiso,64,Northern Iowa,63
+Valparaiso,65,Bradley,70
+Belmont,50,Drake,57
+Bradley,48,Drake,63

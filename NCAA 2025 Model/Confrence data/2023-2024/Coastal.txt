@@ -1,0 +1,141 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+,,,
+Hampton,65,Drexel,99
+Hampton,53,Delaware,80
+UNC Wilmington,63,Drexel,78
+College of Charleston,73,Hofstra,61
+Towson,43,Monmouth,51
+Campbell,62,North Carolina A&T,76
+Stony Brook,62,Northeastern,53
+Elon,70,William & Mary,77
+North Carolina A&T,59,Elon,77
+Campbell,80,Hampton,69
+Delaware,71,Hofstra,76
+College of Charleston,93,Stony Brook,87
+UNC Wilmington,64,Towson,67
+Drexel,77,William & Mary,55
+Northeastern,62,Monmouth,81
+Delaware,68,Campbell,62
+Elon,62,College of Charleston,80
+William & Mary,73,Hampton,61
+Drexel,67,North Carolina A&T,63
+Hofstra,68,Northeastern,71
+Stony Brook,64,Towson,73
+Monmouth,56,UNC Wilmington,69
+Hofstra,68,Campbell,69
+Monmouth,83,College of Charleston,94
+Drexel,89,Elon,69
+Towson,59,Northeastern,67
+Stony Brook,63,William & Mary,59
+Delaware,74,UNC Wilmington,79
+North Carolina A&T,81,Hampton,80
+Towson,82,College of Charleston,78
+Stony Brook,68,Delaware,71
+Monmouth,74,Drexel,78
+UNC Wilmington,82,Elon,70
+Hampton,77,Hofstra,86
+Northeastern,65,North Carolina A&T,72
+Campbell,77,William & Mary,64
+Delaware,67,Drexel,86
+Northeastern,84,Elon,72
+Hampton,77,Monmouth,85
+William & Mary,69,North Carolina A&T,76
+Campbell,43,Towson,77
+College of Charleston,69,UNC Wilmington,78
+Hofstra,80,Stony Brook,74
+Elon,68,Campbell,78
+North Carolina A&T,71,Delaware,90
+College of Charleston,107,Hampton,86
+William & Mary,55,Hofstra,64
+UNC Wilmington,77,Northeastern,54
+Monmouth,65,Stony Brook,72
+Drexel,67,Towson,70
+College of Charleston,90,Campbell,67
+Towson,67,Delaware,56
+North Carolina A&T,47,Drexel,62
+Elon,80,Hampton,74
+Hofstra,78,Monmouth,81
+William & Mary,72,Northeastern,68
+UNC Wilmington,78,Stony Brook,86
+UNC Wilmington,80,College of Charleston,74
+Campbell,69,Elon,67
+Stony Brook,71,Hofstra,72
+Drexel,62,Monmouth,67
+Hampton,58,North Carolina A&T,59
+Northeastern,76,Towson,83
+Delaware,81,William & Mary,53
+Monmouth,80,Delaware,84
+Towson,56,Hofstra,59
+Elon,69,North Carolina A&T,65
+Northeastern,55,Stony Brook,59
+Campbell,74,UNC Wilmington,77
+College of Charleston,84,William & Mary,83
+Northeastern,86,Campbell,76
+North Carolina A&T,58,College of Charleston,80
+Stony Brook,79,Elon,64
+Hofstra,63,Hampton,59
+William & Mary,64,Monmouth,68
+Delaware,74,Towson,62
+Drexel,56,UNC Wilmington,75
+Stony Brook,77,Campbell,95
+Drexel,70,College of Charleston,80
+William & Mary,58,Delaware,69
+UNC Wilmington,95,Hampton,65
+Hofstra,81,North Carolina A&T,49
+Monmouth,65,Northeastern,77
+Elon,55,Towson,80
+Hofstra,77,Drexel,79
+Delaware,67,Elon,73
+Campbell,87,Monmouth,88
+College of Charleston,77,Northeastern,73
+Hampton,73,Stony Brook,93
+North Carolina A&T,54,UNC Wilmington,73
+Towson,61,William & Mary,52
+Campbell,66,Drexel,81
+Towson,61,Hampton,67
+Northeastern,62,Hofstra,82
+Stony Brook,61,Monmouth,84
+Delaware,62,North Carolina A&T,54
+Elon,73,UNC Wilmington,72
+William & Mary,57,College of Charleston,65
+Hampton,72,Campbell,68
+College of Charleston,90,Delaware,71
+Drexel,57,Hofstra,69
+Elon,58,Northeastern,61
+North Carolina A&T,64,Stony Brook,80
+Monmouth,61,Towson,80
+UNC Wilmington,81,William & Mary,65
+Elon,64,Hofstra,87
+North Carolina A&T,67,Monmouth,83
+Hampton,62,Northeastern,70
+William & Mary,62,Stony Brook,75
+College of Charleston,72,Towson,56
+UNC Wilmington,100,Campbell,105
+Drexel,70,Delaware,60
+Campbell,73,College of Charleston,96
+Northeastern,67,Delaware,73
+Stony Brook,86,Drexel,90
+William & Mary,71,Elon,76
+Monmouth,56,Hampton,64
+Towson,84,North Carolina A&T,58
+Hofstra,69,UNC Wilmington,58
+North Carolina A&T,62,Campbell,64
+Hofstra,76,College of Charleston,87
+Northeastern,59,Drexel,73
+Monmouth,85,Elon,70
+Delaware,56,Stony Brook,79
+Towson,64,UNC Wilmington,75
+Hampton,73,William & Mary,85
+Hampton,56,Elon,55
+William & Mary,79,North Carolina A&T,62
+Hampton,50,Delaware,80
+Campbell,67,Monmouth,90
+Northeastern,65,Stony Brook,75
+William & Mary,56,Towson,67
+Monmouth,59,College of Charleston,83
+Stony Brook,91,Drexel,88
+Delaware,58,Hofstra,73
+Towson,66,UNC Wilmington,56
+Towson,56,College of Charleston,61
+Stony Brook,63,Hofstra,59
+Stony Brook,79,College of Charleston,82

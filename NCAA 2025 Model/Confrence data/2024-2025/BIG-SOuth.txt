@@ -1,0 +1,81 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+Gardner-Webb,63,Charleston Southern,72
+Radford,58,High Point,76
+Longwood,60,Presbyterian,68
+South Carolina Upstate,76,Winthrop,95
+Presbyterian,61,Gardner-Webb,63
+Charleston Southern,78,Longwood,83
+Winthrop,67,Radford,87
+High Point,99,UNC Asheville,103
+High Point,93,Charleston Southern,79
+Winthrop,83,Gardner-Webb,89
+UNC Asheville,76,Longwood,85
+Presbyterian,67,South Carolina Upstate,77
+Gardner-Webb,55,High Point,96
+UNC Asheville,96,Presbyterian,87
+Radford,80,South Carolina Upstate,67
+Longwood,76,Winthrop,95
+Gardner-Webb,75,Radford,79
+South Carolina Upstate,92,UNC Asheville,93
+Charleston Southern,97,Winthrop,102
+High Point,80,Longwood,82
+Radford,54,Charleston Southern,58
+South Carolina Upstate,68,Gardner-Webb,97
+Presbyterian,66,High Point,77
+Winthrop,84,UNC Asheville,93
+UNC Asheville,61,Gardner-Webb,53
+Charleston Southern,61,Presbyterian,71
+Longwood,77,Radford,74
+High Point,86,South Carolina Upstate,77
+UNC Asheville,69,Charleston Southern,61
+Winthrop,62,High Point,84
+South Carolina Upstate,54,Longwood,80
+Radford,82,Presbyterian,69
+Longwood,87,Gardner-Webb,92
+Charleston Southern,82,South Carolina Upstate,75
+Radford,65,UNC Asheville,72
+Presbyterian,67,Winthrop,76
+Longwood,85,Charleston Southern,89
+High Point,84,Presbyterian,72
+South Carolina Upstate,69,Radford,79
+Gardner-Webb,93,Winthrop,96
+Winthrop,83,Charleston Southern,65
+South Carolina Upstate,64,Presbyterian,75
+High Point,78,Radford,75
+Gardner-Webb,70,UNC Asheville,78
+Charleston Southern,79,Gardner-Webb,72
+UNC Asheville,100,High Point,104
+Radford,71,Longwood,69
+Winthrop,105,South Carolina Upstate,95
+Presbyterian,70,Charleston Southern,71
+UNC Asheville,92,South Carolina Upstate,85
+Radford,74,Winthrop,78
+Longwood,72,High Point,83
+Presbyterian,77,Longwood,68
+Gardner-Webb,96,South Carolina Upstate,87
+Charleston Southern,72,UNC Asheville,75
+High Point,88,Winthrop,66
+Charleston Southern,60,High Point,83
+Gardner-Webb,77,Longwood,90
+Winthrop,81,Presbyterian,77
+UNC Asheville,53,Radford,77
+South Carolina Upstate,79,Charleston Southern,69
+High Point,90,Gardner-Webb,67
+Presbyterian,80,Radford,73
+Longwood,82,UNC Asheville,87
+Radford,63,Gardner-Webb,56
+South Carolina Upstate,66,High Point,88
+Presbyterian,64,UNC Asheville,59
+Winthrop,85,Longwood,59
+Gardner-Webb,57,Presbyterian,68
+Charleston Southern,60,Radford,76
+Longwood,83,South Carolina Upstate,66
+UNC Asheville,90,Winthrop,103
+South Carolina Upstate,63,Gardner-Webb,83
+Gardner-Webb,64,High Point,85
+Presbyterian,69,Radford,74
+Charleston Southern,60,UNC Asheville,80
+Longwood,79,Winthrop,88
+Radford,73,High Point,76
+Winthrop,86,UNC Asheville,67
+Winthrop,69,High Point,81

@@ -1,0 +1,155 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+,,,
+Maryland,53,Indiana,65
+Purdue,88,Northwestern,92
+Illinois,76,Rutgers,58
+Minnesota,74,Ohio State,84
+Iowa,68,Purdue,87
+Indiana,78,Michigan,75
+Wisconsin,70,Michigan State,57
+Penn State,75,Maryland,81
+Nebraska,65,Minnesota,76
+Ohio State,80,Penn State,83
+Michigan,90,Iowa,80
+Michigan State,70,Nebraska,77
+Northwestern,66,Illinois,96
+Purdue,67,Maryland,53
+Iowa,72,Wisconsin,83
+Indiana,70,Nebraska,86
+Rutgers,72,Ohio State,76
+Minnesota,73,Michigan,71
+Penn State,61,Michigan State,92
+Illinois,78,Purdue,83
+Ohio State,65,Indiana,71
+Rutgers,77,Iowa,86
+Nebraska,72,Wisconsin,88
+Maryland,62,Minnesota,65
+Michigan State,74,Northwestern,88
+Michigan,73,Penn State,79
+Purdue,72,Nebraska,88
+Indiana,57,Rutgers,66
+Wisconsin,71,Ohio State,60
+Northwestern,76,Penn State,72
+Michigan State,68,Illinois,71
+Michigan,57,Maryland,64
+Minnesota,62,Indiana,74
+Nebraska,76,Iowa,94
+Penn State,78,Purdue,95
+Northwestern,63,Wisconsin,71
+Maryland,76,Illinois,67
+Rutgers,55,Michigan State,73
+Ohio State,65,Michigan,73
+Iowa,86,Minnesota,77
+Purdue,87,Indiana,66
+Wisconsin,83,Penn State,87
+Maryland,69,Northwestern,72
+Nebraska,82,Rutgers,87
+Illinois,88,Michigan,73
+Minnesota,66,Michigan State,76
+Indiana,79,Wisconsin,91
+Purdue,84,Iowa,70
+Northwestern,69,Nebraska,75
+Penn State,67,Ohio State,79
+Rutgers,63,Illinois,86
+Michigan State,61,Maryland,59
+Wisconsin,61,Minnesota,59
+Ohio State,69,Nebraska,83
+Michigan,67,Purdue,99
+Maryland,69,Iowa,67
+Illinois,91,Northwestern,96
+Michigan State,66,Wisconsin,81
+Indiana,62,Illinois,70
+Nebraska,51,Maryland,73
+Iowa,88,Michigan,78
+Ohio State,58,Northwestern,83
+Minnesota,83,Penn State,74
+Purdue,68,Rutgers,60
+Iowa,68,Indiana,74
+Michigan,62,Michigan State,81
+Illinois,87,Ohio State,75
+Northwestern,96,Purdue,105
+Penn State,61,Rutgers,46
+Wisconsin,72,Nebraska,80
+Ohio State,77,Iowa,79
+Penn State,85,Indiana,71
+Rutgers,69,Michigan,59
+Maryland,54,Michigan State,63
+Northwestern,66,Minnesota,75
+Nebraska,84,Illinois,87
+Purdue,75,Wisconsin,69
+Rutgers,56,Maryland,53
+Michigan State,56,Minnesota,59
+Indiana,76,Ohio State,73
+Wisconsin,68,Michigan,72
+Nebraska,68,Northwestern,80
+Iowa,79,Penn State,89
+Illinois,80,Michigan State,88
+Michigan,59,Nebraska,79
+Maryland,75,Ohio State,79
+Indiana,59,Purdue,79
+Wisconsin,56,Rutgers,78
+Minnesota,85,Iowa,90
+Penn State,63,Northwestern,68
+Michigan,68,Illinois,97
+Ohio State,54,Wisconsin,62
+Iowa,66,Maryland,78
+Michigan State,80,Penn State,72
+Minnesota,76,Purdue,84
+Northwestern,60,Rutgers,63
+Wisconsin,86,Iowa,88
+Illinois,85,Maryland,80
+Michigan State,73,Michigan,63
+Penn State,49,Nebraska,68
+Northwestern,76,Indiana,72
+Rutgers,70,Minnesota,81
+Purdue,69,Ohio State,73
+Iowa,78,Michigan State,71
+Maryland,70,Wisconsin,74
+Nebraska,85,Indiana,70
+Illinois,89,Penn State,90
+Ohio State,79,Minnesota,88
+Michigan,62,Northwestern,76
+Rutgers,68,Purdue,96
+Iowa,85,Illinois,95
+Indiana,74,Penn State,83
+Purdue,84,Michigan,76
+Ohio State,60,Michigan State,57
+Minnesota,55,Nebraska,73
+Maryland,63,Rutgers,46
+Wisconsin,70,Indiana,74
+Penn State,81,Iowa,90
+Minnesota,97,Illinois,105
+Northwestern,68,Maryland,61
+Nebraska,69,Ohio State,78
+Michigan,52,Rutgers,82
+Penn State,70,Minnesota,75
+Iowa,87,Northwestern,80
+Michigan State,74,Purdue,80
+Illinois,91,Wisconsin,83
+Indiana,83,Maryland,78
+Rutgers,56,Nebraska,67
+Michigan,61,Ohio State,84
+Purdue,77,Illinois,71
+Northwestern,49,Michigan State,53
+Indiana,70,Minnesota,58
+Rutgers,66,Wisconsin,78
+Minnesota,66,Northwestern,90
+Michigan State,64,Indiana,65
+Illinois,73,Iowa,61
+Nebraska,85,Michigan,70
+Maryland,69,Penn State,85
+Wisconsin,70,Purdue,78
+Ohio State,73,Rutgers,51
+Rutgers,51,Maryland,65
+Michigan,57,Penn State,66
+Penn State,59,Indiana,61
+Ohio State,90,Iowa,78
+Minnesota,67,Michigan State,77
+Maryland,56,Wisconsin,87
+Ohio State,74,Illinois,77
+Indiana,66,Nebraska,93
+Wisconsin,70,Northwestern,61
+Michigan State,62,Purdue,67
+Nebraska,87,Illinois,98
+Wisconsin,76,Purdue,75
+Wisconsin,87,Illinois,93

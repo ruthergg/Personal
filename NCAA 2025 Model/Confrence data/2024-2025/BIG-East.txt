@@ -1,0 +1,111 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+Providence,70,DePaul,63
+DePaul,61,St. John's (NY),89
+Seton Hall,67,Villanova,79
+Xavier,89,Connecticut,94
+Creighton,57,Georgetown,81
+Butler,70,Marquette,80
+St. John's (NY),72,Providence,70
+Connecticut,78,Butler,74
+Villanova,79,Creighton,86
+Marquette,72,Xavier,70
+Georgetown,61,Seton Hall,60
+St. John's (NY),56,Creighton,57
+Marquette,78,Providence,50
+Seton Hall,72,Xavier,94
+Villanova,73,Butler,65
+Connecticut,81,DePaul,68
+Xavier,63,Georgetown,69
+Creighton,71,Marquette,79
+Butler,62,St. John's (NY),70
+DePaul,56,Villanova,100
+Providence,84,Connecticut,87
+Georgetown,66,Marquette,74
+St. John's (NY),82,Xavier,72
+Butler,65,Providence,84
+DePaul,80,Seton Hall,85
+Connecticut,66,Villanova,68
+Creighton,80,Butler,76
+Xavier,77,DePaul,63
+Connecticut,68,Georgetown,60
+Seton Hall,85,Providence,91
+Villanova,68,St. John's (NY),80
+Providence,64,Creighton,84
+Marquette,85,DePaul,83
+Georgetown,58,St. John's (NY),63
+Villanova,63,Xavier,69
+Seton Hall,77,Butler,82
+DePaul,73,Georgetown,68
+Providence,73,Villanova,75
+Creighton,68,Connecticut,63
+Xavier,59,Marquette,57
+St. John's (NY),79,Seton Hall,51
+Georgetown,64,Villanova,63
+Butler,78,Connecticut,80
+Creighton,73,DePaul,49
+Marquette,76,Seton Hall,59
+Xavier,71,St. John's (NY),79
+Villanova,74,Marquette,87
+DePaul,69,Butler,86
+Seton Hall,54,Creighton,79
+Georgetown,68,Providence,78
+Connecticut,72,Xavier,76
+Marquette,78,Butler,69
+St. John's (NY),66,Georgetown,41
+Providence,69,Seton Hall,67
+DePaul,61,Connecticut,72
+Xavier,77,Creighton,86
+Butler,70,Georgetown,73
+Connecticut,77,Marquette,69
+Providence,66,St. John's (NY),68
+Creighton,62,Villanova,60
+Seton Hall,57,DePaul,74
+Marquette,64,St. John's (NY),70
+Georgetown,69,Xavier,74
+Villanova,59,DePaul,49
+Creighton,80,Providence,69
+Butler,84,Seton Hall,54
+St. John's (NY),68,Connecticut,62
+Providence,81,Butler,82
+Marquette,67,Creighton,77
+Seton Hall,46,Georgetown,60
+Xavier,68,Villanova,80
+Connecticut,70,Creighton,66
+DePaul,58,Marquette,68
+Xavier,91,Providence,82
+St. John's (NY),71,Villanova,73
+Georgetown,86,Butler,97
+Villanova,62,Providence,75
+Connecticut,68,Seton Hall,69
+DePaul,68,Xavier,85
+Creighton,73,St. John's (NY),79
+Villanova,59,Connecticut,66
+Seton Hall,56,Marquette,80
+Butler,63,Xavier,76
+St. John's (NY),82,DePaul,58
+Providence,72,Georgetown,93
+Marquette,66,Villanova,81
+Butler,84,DePaul,72
+Georgetown,69,Creighton,80
+Xavier,73,Seton Hall,66
+Connecticut,75,St. John's (NY),89
+Providence,52,Marquette,82
+St. John's (NY),76,Butler,70
+Georgetown,79,Connecticut,93
+DePaul,65,Creighton,75
+Villanova,59,Seton Hall,54
+Marquette,76,Georgetown,61
+Connecticut,75,Providence,63
+Seton Hall,61,St. John's (NY),71
+Butler,70,Villanova,80
+Creighton,61,Xavier,83
+Villanova,73,Georgetown,75
+Creighton,79,Seton Hall,61
+Xavier,91,Butler,78
+Marquette,66,Connecticut,72
+DePaul,80,Providence,77
+Seton Hall,50,Connecticut,81
+Butler,74,Creighton,87
+Georgetown,77,DePaul,83
+St. John's (NY),86,Marquette,84
+Providence,68,Xavier,76

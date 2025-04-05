@@ -1,0 +1,122 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+East Texas A&M,79,Houston Christian,83
+Northwestern State,72,Incarnate Word,70
+Southeastern Louisiana,64,Nicholls State,67
+Lamar,65,Texas A&M-Corpus Christi,61
+Stephen F. Austin,65,Texas-Rio Grande Valley,68
+Northwestern State,64,Houston Christian,57
+East Texas A&M,53,Incarnate Word,65
+New Orleans,70,Nicholls State,73
+Stephen F. Austin,48,Texas A&M-Corpus Christi,67
+Lamar,84,Texas-Rio Grande Valley,52
+New Orleans,61,McNeese State,86
+Southeastern Louisiana,51,McNeese State,79
+McNeese State,75,East Texas A&M,56
+Houston Christian,61,Lamar,63
+Texas-Rio Grande Valley,76,New Orleans,64
+Nicholls State,66,Northwestern State,68
+Texas A&M-Corpus Christi,80,Southeastern Louisiana,71
+Incarnate Word,55,Stephen F. Austin,49
+Nicholls State,83,East Texas A&M,61
+Incarnate Word,58,Lamar,72
+Texas A&M-Corpus Christi,97,New Orleans,83
+McNeese State,92,Northwestern State,69
+Texas-Rio Grande Valley,75,Southeastern Louisiana,79
+Houston Christian,83,Stephen F. Austin,73
+Incarnate Word,76,Houston Christian,81
+Stephen F. Austin,72,Lamar,63
+Nicholls State,71,McNeese State,80
+Southeastern Louisiana,91,New Orleans,71
+East Texas A&M,67,Northwestern State,75
+Texas-Rio Grande Valley,74,Texas A&M-Corpus Christi,79
+McNeese State,75,Houston Christian,59
+Nicholls State,88,Incarnate Word,82
+New Orleans,68,Lamar,62
+Southeastern Louisiana,66,Stephen F. Austin,59
+Northwestern State,64,Texas A&M-Corpus Christi,73
+East Texas A&M,55,Texas-Rio Grande Valley,57
+New Orleans,82,East Texas A&M,73
+Texas-Rio Grande Valley,57,Houston Christian,66
+Texas A&M-Corpus Christi,69,Incarnate Word,63
+Lamar,64,McNeese State,75
+Stephen F. Austin,61,Nicholls State,73
+Southeastern Louisiana,65,Northwestern State,64
+Southeastern Louisiana,76,East Texas A&M,68
+Texas A&M-Corpus Christi,72,Houston Christian,76
+Texas-Rio Grande Valley,85,Incarnate Word,78
+Stephen F. Austin,59,McNeese State,79
+Lamar,78,Nicholls State,74
+New Orleans,61,Northwestern State,73
+East Texas A&M,58,Lamar,61
+Houston Christian,86,New Orleans,76
+Incarnate Word,63,Southeastern Louisiana,86
+Northwestern State,57,Stephen F. Austin,54
+Nicholls State,57,Texas A&M-Corpus Christi,61
+McNeese State,93,Texas-Rio Grande Valley,63
+Northwestern State,59,Lamar,69
+Incarnate Word,74,New Orleans,58
+Houston Christian,70,Southeastern Louisiana,62
+East Texas A&M,72,Stephen F. Austin,79
+McNeese State,74,Texas A&M-Corpus Christi,73
+Nicholls State,82,Texas-Rio Grande Valley,75
+Northwestern State,50,East Texas A&M,72
+Houston Christian,64,Incarnate Word,74
+McNeese State,63,Nicholls State,71
+New Orleans,68,Southeastern Louisiana,76
+Lamar,67,Stephen F. Austin,62
+Texas A&M-Corpus Christi,73,Texas-Rio Grande Valley,83
+Texas A&M-Corpus Christi,78,East Texas A&M,66
+Incarnate Word,65,McNeese State,67
+Stephen F. Austin,88,New Orleans,85
+Houston Christian,67,Nicholls State,75
+Texas-Rio Grande Valley,63,Northwestern State,79
+Lamar,79,Southeastern Louisiana,81
+New Orleans,68,Houston Christian,81
+Southeastern Louisiana,71,Incarnate Word,66
+Texas-Rio Grande Valley,68,Lamar,70
+Northwestern State,50,McNeese State,65
+East Texas A&M,65,Nicholls State,81
+Texas A&M-Corpus Christi,64,Stephen F. Austin,78
+Southeastern Louisiana,69,Houston Christian,60
+New Orleans,65,Incarnate Word,75
+Texas A&M-Corpus Christi,56,Lamar,67
+East Texas A&M,51,McNeese State,67
+Northwestern State,72,Nicholls State,60
+Texas-Rio Grande Valley,75,Stephen F. Austin,85
+Lamar,65,East Texas A&M,55
+McNeese State,78,New Orleans,64
+Stephen F. Austin,70,Northwestern State,68
+Nicholls State,81,Southeastern Louisiana,84
+Incarnate Word,55,Texas A&M-Corpus Christi,69
+Houston Christian,52,Texas-Rio Grande Valley,76
+Stephen F. Austin,76,East Texas A&M,74
+Nicholls State,78,New Orleans,62
+Lamar,75,Northwestern State,65
+McNeese State,88,Southeastern Louisiana,82
+Houston Christian,62,Texas A&M-Corpus Christi,68
+Incarnate Word,66,Texas-Rio Grande Valley,60
+Lamar,66,Houston Christian,58
+Stephen F. Austin,61,Incarnate Word,63
+Texas A&M-Corpus Christi,57,McNeese State,73
+Northwestern State,73,New Orleans,66
+Texas-Rio Grande Valley,84,Nicholls State,93
+East Texas A&M,65,Southeastern Louisiana,83
+Stephen F. Austin,56,Houston Christian,72
+Lamar,61,Incarnate Word,73
+Texas-Rio Grande Valley,65,McNeese State,100
+East Texas A&M,73,New Orleans,71
+Texas A&M-Corpus Christi,69,Nicholls State,71
+Northwestern State,72,Southeastern Louisiana,69
+Incarnate Word,75,East Texas A&M,68
+McNeese State,68,Lamar,66
+Houston Christian,56,Northwestern State,61
+Nicholls State,94,Stephen F. Austin,70
+Southeastern Louisiana,54,Texas A&M-Corpus Christi,68
+New Orleans,78,Texas-Rio Grande Valley,88
+Houston Christian,59,East Texas A&M,63
+Nicholls State,53,Lamar,65
+Incarnate Word,57,Northwestern State,73
+McNeese State,95,Stephen F. Austin,64
+New Orleans,62,Texas A&M-Corpus Christi,95
+Southeastern Louisiana,76,Texas-Rio Grande Valley,77
+Incarnate Word,71,Southeastern Louisiana,67

@@ -1,0 +1,117 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+,,,
+Eastern Michigan,90,Bowling Green State,92
+Buffalo,76,Central Michigan,64
+Ball State,69,Kent State,82
+Western Michigan,83,Miami (OH),74
+Akron,73,Northern Illinois,51
+Toledo,86,Ohio,77
+Bowling Green State,67,Akron,83
+Miami (OH),64,Toledo,68
+Central Michigan,71,Ball State,65
+Western Michigan,82,Buffalo,77
+Kent State,69,Eastern Michigan,71
+Northern Illinois,66,Ohio,78
+Akron,80,Ball State,76
+Ohio,78,Bowling Green State,83
+Miami (OH),86,Buffalo,65
+Central Michigan,80,Eastern Michigan,64
+Toledo,89,Kent State,75
+Northern Illinois,90,Western Michigan,95
+Buffalo,59,Akron,76
+Kent State,62,Central Michigan,77
+Eastern Michigan,54,Miami (OH),71
+Bowling Green State,83,Northern Illinois,72
+Ball State,72,Toledo,77
+Ohio,79,Western Michigan,81
+Western Michigan,66,Akron,77
+Ball State,76,Eastern Michigan,62
+Bowling Green State,78,Miami (OH),73
+Kent State,83,Northern Illinois,76
+Central Michigan,61,Ohio,73
+Buffalo,66,Toledo,77
+Toledo,62,Central Michigan,65
+Akron,77,Kent State,71
+Miami (OH),87,Ball State,80
+Western Michigan,79,Bowling Green State,84
+Eastern Michigan,67,Ohio,85
+Ohio,58,Akron,67
+Kent State,90,Bowling Green State,84
+Ball State,87,Buffalo,59
+Miami (OH),55,Central Michigan,71
+Toledo,89,Northern Illinois,73
+Eastern Michigan,56,Western Michigan,73
+Ohio,71,Kent State,64
+Northern Illinois,71,Ball State,81
+Buffalo,65,Eastern Michigan,75
+Akron,68,Miami (OH),70
+Bowling Green State,72,Toledo,88
+Central Michigan,62,Western Michigan,55
+Bowling Green State,81,Ball State,72
+Northern Illinois,77,Central Michigan,84
+Akron,77,Eastern Michigan,46
+Miami (OH),71,Kent State,67
+Buffalo,70,Ohio,91
+Western Michigan,63,Toledo,88
+Toledo,70,Akron,77
+Kent State,83,Buffalo,52
+Central Michigan,77,Bowling Green State,76
+Eastern Michigan,66,Northern Illinois,76
+Miami (OH),69,Ohio,78
+Ball State,77,Western Michigan,67
+Central Michigan,47,Akron,68
+Ohio,84,Ball State,79
+Buffalo,73,Bowling Green State,87
+Toledo,91,Eastern Michigan,87
+Western Michigan,61,Kent State,63
+Northern Illinois,62,Miami (OH),59
+Buffalo,68,Northern Illinois,72
+Ohio,83,Toledo,85
+Akron,73,Buffalo,62
+Western Michigan,42,Central Michigan,69
+Bowling Green State,60,Eastern Michigan,69
+Northern Illinois,47,Kent State,85
+Ball State,59,Miami (OH),80
+Eastern Michigan,69,Buffalo,78
+Bowling Green State,60,Central Michigan,62
+Ball State,70,Northern Illinois,63
+Kent State,57,Ohio,63
+Akron,64,Toledo,72
+Miami (OH),58,Western Michigan,77
+Kent State,70,Akron,83
+Toledo,68,Bowling Green State,76
+Eastern Michigan,58,Ball State,56
+Central Michigan,60,Miami (OH),88
+Ohio,80,Northern Illinois,59
+Buffalo,72,Western Michigan,91
+Miami (OH),66,Bowling Green State,58
+Ball State,79,Central Michigan,71
+Western Michigan,67,Eastern Michigan,70
+Buffalo,64,Kent State,76
+Akron,67,Ohio,74
+Northern Illinois,75,Toledo,72
+Bowling Green State,59,Ohio,66
+Northern Illinois,73,Akron,80
+Western Michigan,78,Ball State,76
+Toledo,85,Buffalo,79
+Miami (OH),52,Eastern Michigan,37
+Central Michigan,73,Kent State,79
+Eastern Michigan,61,Akron,60
+Kent State,69,Ball State,76
+Ohio,78,Buffalo,66
+Toledo,97,Miami (OH),63
+Central Michigan,69,Northern Illinois,63
+Bowling Green State,73,Western Michigan,65
+Ball State,70,Bowling Green State,80
+Northern Illinois,78,Buffalo,68
+Eastern Michigan,62,Central Michigan,65
+Ohio,72,Miami (OH),59
+Kent State,71,Toledo,86
+Akron,84,Western Michigan,90
+Miami (OH),63,Akron,75
+Bowling Green State,66,Central Michigan,56
+Western Michigan,55,Ohio,82
+Kent State,67,Toledo,59
+Ohio,62,Akron,65
+Kent State,73,Bowling Green State,60
+Kent State,61,Akron,62

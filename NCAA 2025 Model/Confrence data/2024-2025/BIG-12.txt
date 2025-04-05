@@ -1,0 +1,161 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+TCU,81,Arizona,90
+Iowa State,79,Colorado,69
+Cincinnati,67,Kansas State,70
+Houston,60,Oklahoma State,47
+Utah,56,Baylor,81
+Arizona State,56,Brigham Young,76
+West Virginia,62,Kansas,61
+UCF,87,Texas Tech,83
+Colorado,61,Arizona State,81
+Arizona,72,Cincinnati,67
+Brigham Young,55,Houston,86
+Baylor,55,Iowa State,74
+Kansas State,62,TCU,63
+Texas Tech,93,Utah,65
+Oklahoma State,50,West Virginia,69
+Kansas,99,UCF,48
+TCU,46,Houston,65
+Cincinnati,48,Baylor,68
+Texas Tech,72,Brigham Young,67
+Utah,59,Iowa State,82
+Kansas State,66,Oklahoma State,79
+Arizona,75,West Virginia,56
+Arizona State,55,Kansas,74
+Colorado,74,UCF,75
+UCF,80,Arizona,88
+Baylor,72,Arizona State,66
+Kansas,54,Cincinnati,40
+Houston,87,Kansas State,57
+Brigham Young,67,TCU,71
+Iowa State,85,Texas Tech,84
+Oklahoma State,62,Utah,83
+West Virginia,78,Colorado,70
+Baylor,70,Arizona,81
+UCF,95,Arizona State,89
+Oklahoma State,69,Brigham Young,85
+Texas Tech,61,Kansas State,57
+Cincinnati,68,Colorado,62
+West Virginia,54,Houston,70
+Kansas,57,Iowa State,74
+Utah,73,TCU,65
+Arizona State,60,Cincinnati,67
+Kansas State,74,Kansas,84
+Colorado,73,Oklahoma State,83
+Arizona,54,Texas Tech,70
+Houston,69,UCF,68
+Brigham Young,72,Utah,73
+Iowa State,57,West Virginia,64
+TCU,74,Baylor,71
+Texas Tech,81,Cincinnati,71
+Brigham Young,83,Colorado,67
+UCF,83,Iowa State,108
+Arizona,92,Oklahoma State,78
+Arizona State,65,West Virginia,57
+Kansas State,62,Baylor,70
+Utah,36,Houston,70
+Kansas,74,TCU,61
+Colorado,63,Arizona,78
+Iowa State,76,Arizona State,61
+Cincinnati,52,Brigham Young,80
+Houston,92,Kansas,86
+West Virginia,60,Kansas State,73
+TCU,58,UCF,85
+Baylor,76,Utah,61
+Oklahoma State,54,Texas Tech,64
+Iowa State,75,Arizona,86
+Baylor,89,Brigham Young,93
+Arizona State,70,Colorado,68
+UCF,87,Kansas,91
+Cincinnati,66,Utah,69
+Oklahoma State,57,Kansas State,85
+TCU,57,Texas Tech,71
+Houston,63,West Virginia,49
+Arizona,81,Arizona State,72
+Kansas,70,Baylor,81
+Texas Tech,82,Houston,81
+Kansas State,80,Iowa State,61
+Utah,72,Oklahoma State,81
+Brigham Young,81,UCF,75
+West Virginia,63,Cincinnati,50
+Colorado,57,TCU,68
+Iowa State,52,Kansas,69
+Kansas State,71,Arizona State,70
+Arizona,85,Brigham Young,74
+Oklahoma State,63,Houston,72
+Baylor,59,Texas Tech,73
+West Virginia,60,TCU,65
+Cincinnati,93,UCF,83
+Colorado,59,Utah,72
+Texas Tech,73,Arizona,82
+UCF,76,Baylor,91
+Brigham Young,66,Cincinnati,84
+Houston,69,Colorado,59
+TCU,52,Iowa State,82
+Kansas,73,Kansas State,81
+Utah,61,West Virginia,72
+Arizona State,73,Oklahoma State,86
+Baylor,65,Houston,76
+Utah,75,Cincinnati,85
+Colorado,59,Kansas,71
+Arizona,70,Kansas State,73
+Iowa State,77,UCF,65
+Brigham Young,73,West Virginia,69
+Oklahoma State,72,TCU,73
+Arizona State,106,Texas Tech,111
+Houston,62,Arizona,58
+TCU,74,Arizona State,70
+West Virginia,71,Baylor,74
+Kansas State,65,Brigham Young,80
+UCF,63,Colorado,76
+Cincinnati,70,Iowa State,81
+Texas Tech,93,Oklahoma State,55
+Kansas,67,Utah,74
+Arizona,74,Baylor,67
+Kansas State,69,Utah,74
+Houston,80,Arizona State,65
+Kansas,57,Brigham Young,91
+Colorado,65,Iowa State,79
+Texas Tech,66,TCU,69
+UCF,95,Oklahoma State,104
+Cincinnati,59,West Virginia,62
+Brigham Young,96,Arizona,95
+TCU,63,Cincinnati,75
+Baylor,74,Colorado,76
+Iowa State,59,Houston,68
+Oklahoma State,64,Kansas,96
+West Virginia,51,Texas Tech,73
+Arizona State,66,Kansas State,54
+Utah,72,UCF,76
+Kansas,71,Colorado,64
+Houston,69,Texas Tech,61
+Baylor,67,Cincinnati,69
+Iowa State,68,Oklahoma State,74
+TCU,55,West Virginia,73
+Utah,66,Arizona,83
+Brigham Young,91,Arizona State,81
+Kansas State,76,UCF,80
+Oklahoma State,61,Baylor,71
+West Virginia,56,Brigham Young,77
+Cincinnati,64,Houston,73
+Arizona,67,Iowa State,84
+Texas Tech,78,Kansas,73
+UCF,78,TCU,89
+Arizona State,73,Utah,99
+Colorado,56,Kansas State,65
+Kansas,59,Houston,65
+Arizona State,100,Arizona,113
+Brigham Young,88,Iowa State,85
+Baylor,61,TCU,58
+West Virginia,71,Utah,69
+Kansas State,54,Cincinnati,49
+Colorado,75,Texas Tech,91
+Oklahoma State,70,UCF,83
+Texas Tech,85,Arizona State,57
+Houston,65,Baylor,61
+Utah,74,Brigham Young,85
+TCU,56,Colorado,76
+Arizona,76,Kansas,83
+Iowa State,73,Kansas State,57
+Cincinnati,67,Oklahoma State,78
+UCF,65,West Virginia,72

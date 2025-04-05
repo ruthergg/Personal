@@ -1,0 +1,118 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+Green Bay,75,IU Indy,84
+Youngstown State,72,Robert Morris,58
+Purdue Fort Wayne,78,Detroit Mercy,79
+Cleveland State,67,Milwaukee,79
+Wright State,64,Oakland,66
+Wright State,80,Detroit Mercy,72
+Cleveland State,83,Green Bay,61
+Northern Kentucky,66,IU Indy,64
+Oakland,50,Youngstown State,66
+Robert Morris,77,Purdue Fort Wayne,82
+Milwaukee,88,Green Bay,67
+IU Indy,76,Purdue Fort Wayne,78
+Detroit Mercy,60,Northern Kentucky,73
+Youngstown State,80,Wright State,70
+Oakland,75,Cleveland State,92
+Wright State,64,Cleveland State,78
+Purdue Fort Wayne,83,Green Bay,67
+IU Indy,81,Milwaukee,88
+Northern Kentucky,93,Robert Morris,97
+Detroit Mercy,64,Youngstown State,73
+Youngstown State,77,IU Indy,61
+Purdue Fort Wayne,68,Northern Kentucky,69
+Robert Morris,76,Detroit Mercy,78
+Milwaukee,49,Oakland,65
+Green Bay,51,Wright State,74
+IU Indy,61,Cleveland State,67
+Milwaukee,64,Detroit Mercy,56
+Green Bay,60,Northern Kentucky,78
+Robert Morris,79,Oakland,71
+Youngstown State,81,Purdue Fort Wayne,90
+Milwaukee,73,Purdue Fort Wayne,78
+Cleveland State,80,Robert Morris,69
+Northern Kentucky,61,Youngstown State,72
+Detroit Mercy,61,IU Indy,95
+Oakland,62,Wright State,66
+Green Bay,59,Milwaukee,70
+Oakland,68,Northern Kentucky,53
+Detroit Mercy,67,Purdue Fort Wayne,90
+Cleveland State,80,Youngstown State,72
+Wright State,72,Robert Morris,75
+Northern Kentucky,58,Cleveland State,76
+IU Indy,59,Oakland,72
+Purdue Fort Wayne,120,Wright State,113
+Robert Morris,89,Green Bay,67
+Youngstown State,64,Milwaukee,79
+Oakland,65,Detroit Mercy,59
+Wright State,78,Northern Kentucky,70
+Youngstown State,73,Green Bay,69
+Cleveland State,73,IU Indy,62
+Robert Morris,81,Milwaukee,79
+Detroit Mercy,50,Cleveland State,65
+IU Indy,86,Green Bay,77
+Purdue Fort Wayne,72,Oakland,76
+Milwaukee,95,Wright State,79
+Robert Morris,72,Youngstown State,70
+Milwaukee,79,Northern Kentucky,59
+Green Bay,66,Cleveland State,81
+Purdue Fort Wayne,91,IU Indy,80
+Oakland,71,Robert Morris,73
+Detroit Mercy,50,Wright State,67
+Northern Kentucky,57,Detroit Mercy,68
+Green Bay,54,Oakland,68
+Cleveland State,68,Purdue Fort Wayne,58
+IU Indy,53,Robert Morris,106
+Wright State,86,Youngstown State,88
+Green Bay,57,Detroit Mercy,67
+Northern Kentucky,84,Oakland,75
+IU Indy,84,Youngstown State,79
+Purdue Fort Wayne,81,Milwaukee,79
+Robert Morris,64,Wright State,66
+Milwaukee,84,IU Indy,80
+Cleveland State,75,Northern Kentucky,85
+Wright State,64,Purdue Fort Wayne,87
+Detroit Mercy,56,Robert Morris,71
+Youngstown State,84,Oakland,75
+Milwaukee,60,Cleveland State,77
+Youngstown State,87,Detroit Mercy,72
+Robert Morris,81,Northern Kentucky,76
+Green Bay,74,Purdue Fort Wayne,89
+IU Indy,73,Wright State,91
+Robert Morris,68,Cleveland State,59
+Oakland,82,IU Indy,67
+Purdue Fort Wayne,71,Youngstown State,93
+Northern Kentucky,73,Green Bay,60
+Wright State,80,Milwaukee,88
+Purdue Fort Wayne,69,Robert Morris,76
+Youngstown State,68,Cleveland State,60
+Wright State,68,Green Bay,79
+Northern Kentucky,70,Milwaukee,92
+Detroit Mercy,83,Oakland,93
+IU Indy,80,Detroit Mercy,71
+Cleveland State,73,Detroit Mercy,65
+Oakland,66,Purdue Fort Wayne,80
+Green Bay,85,Robert Morris,94
+Northern Kentucky,80,Wright State,76
+Milwaukee,84,Youngstown State,74
+IU Indy,67,Northern Kentucky,71
+Cleveland State,86,Oakland,91
+Milwaukee,59,Robert Morris,72
+Green Bay,77,Youngstown State,81
+Detroit Mercy,71,Green Bay,76
+Robert Morris,82,IU Indy,68
+Oakland,66,Milwaukee,71
+Northern Kentucky,79,Purdue Fort Wayne,74
+Cleveland State,76,Wright State,82
+Purdue Fort Wayne,57,Cleveland State,68
+Oakland,87,Green Bay,84
+Wright State,84,IU Indy,91
+Detroit Mercy,67,Milwaukee,89
+Youngstown State,79,Northern Kentucky,88
+Detroit Mercy,75,Northern Kentucky,99
+Green Bay,72,Oakland,96
+IU Indy,85,Wright State,98
+Northern Kentucky,63,Cleveland State,68
+Oakland,72,Milwaukee,64
+Wright State,62,Robert Morris,83
+Purdue Fort Wayne,67,Youngstown State,72

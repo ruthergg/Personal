@@ -1,0 +1,119 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+,,,
+Cal State Northridge,83,Cal Poly,73
+Long Beach State,81,Cal State Fullerton,71
+UC Santa Barbara,62,UC Davis,76
+UC Riverside,66,UC Irvine,73
+Cal State Bakersfield,64,UC San Diego,76
+UC Irvine,75,Cal State Bakersfield,56
+Cal State Northridge,84,Long Beach State,68
+Cal Poly,46,UC Davis,71
+UC Santa Barbara,77,UC Riverside,79
+Cal State Fullerton,63,Hawaii,61
+Long Beach State,89,Cal Poly,82
+Hawaii,78,Cal State Bakersfield,67
+Cal State Fullerton,67,UC Irvine,75
+UC Davis,83,UC Riverside,63
+UC San Diego,79,UC Santa Barbara,72
+UC Santa Barbara,61,Cal Poly,52
+UC San Diego,76,Cal State Fullerton,58
+Hawaii,66,Cal State Northridge,76
+UC Riverside,75,Long Beach State,83
+UC Davis,71,UC Irvine,74
+Cal State Northridge,75,UC Davis,95
+Cal Poly,56,UC Riverside,71
+Long Beach State,74,UC San Diego,88
+Cal State Bakersfield,64,UC Santa Barbara,66
+UC Irvine,60,Hawaii,50
+UC San Diego,86,Cal Poly,61
+Cal State Fullerton,71,Cal State Northridge,76
+Cal State Bakersfield,71,UC Davis,78
+Long Beach State,76,UC Santa Barbara,85
+UC Riverside,56,Hawaii,63
+UC Riverside,56,Cal State Bakersfield,80
+UC Davis,67,Cal State Fullerton,65
+UC Santa Barbara,97,Cal State Northridge,69
+Hawaii,71,Long Beach State,79
+UC San Diego,65,UC Irvine,76
+Cal Poly,53,Cal State Bakersfield,65
+UC Irvine,52,UC Davis,54
+Cal State Northridge,63,UC Riverside,82
+Hawaii,61,UC San Diego,67
+Cal State Fullerton,73,UC Santa Barbara,69
+Cal State Fullerton,54,Cal Poly,51
+Cal State Bakersfield,64,Cal State Northridge,56
+UC Irvine,72,Long Beach State,61
+UC Riverside,65,UC San Diego,66
+UC Santa Barbara,78,Hawaii,61
+Cal State Bakersfield,50,Cal State Fullerton,68
+UC San Diego,92,UC Davis,59
+Cal State Northridge,72,UC Irvine,77
+Long Beach State,65,UC Riverside,53
+Cal Poly,73,Hawaii,83
+UC Irvine,73,Cal Poly,59
+Long Beach State,76,Cal State Bakersfield,82
+Hawaii,76,Cal State Fullerton,68
+Cal State Northridge,62,UC San Diego,83
+UC Davis,79,UC Santa Barbara,69
+UC Davis,59,Cal Poly,52
+UC Santa Barbara,70,Cal State Bakersfield,59
+UC Riverside,70,Cal State Northridge,76
+UC San Diego,76,Long Beach State,85
+Hawaii,68,UC Irvine,93
+Cal Poly,65,Cal State Northridge,78
+Cal State Fullerton,58,UC Davis,71
+Cal State Bakersfield,63,UC Riverside,65
+UC Irvine,76,UC Santa Barbara,61
+UC San Diego,86,Hawaii,94
+Cal State Fullerton,71,Cal State Bakersfield,73
+Cal Poly,68,Long Beach State,77
+UC Irvine,78,UC Riverside,88
+Cal State Northridge,82,UC Santa Barbara,74
+UC Davis,70,Hawaii,87
+Hawaii,80,Cal Poly,51
+Cal State Northridge,76,Cal State Bakersfield,71
+UC Riverside,81,Cal State Fullerton,73
+Long Beach State,78,UC Davis,74
+UC Santa Barbara,46,UC San Diego,61
+Long Beach State,87,Cal State Northridge,73
+UC Riverside,67,UC Davis,61
+Cal State Bakersfield,71,UC Irvine,77
+Cal State Fullerton,69,UC San Diego,76
+Hawaii,71,UC Santa Barbara,77
+Cal Poly,50,Cal State Fullerton,68
+UC Davis,66,Cal State Northridge,65
+Cal State Bakersfield,66,Long Beach State,79
+UC Santa Barbara,69,UC Irvine,81
+UC San Diego,77,UC Riverside,65
+UC Riverside,84,Cal Poly,78
+UC Davis,56,Cal State Bakersfield,75
+Cal State Northridge,65,Cal State Fullerton,60
+UC Irvine,88,UC San Diego,92
+Long Beach State,65,Hawaii,73
+UC San Diego,57,Cal State Bakersfield,70
+UC Irvine,89,Cal State Northridge,64
+Cal State Fullerton,76,Long Beach State,71
+Hawaii,63,UC Davis,75
+Cal Poly,75,UC Santa Barbara,83
+Cal State Bakersfield,68,Cal Poly,56
+UC Santa Barbara,70,Cal State Fullerton,79
+UC San Diego,79,Cal State Northridge,69
+Long Beach State,61,UC Irvine,82
+Hawaii,76,UC Riverside,73
+Cal State Northridge,70,Hawaii,72
+UC Santa Barbara,76,Long Beach State,74
+Cal Poly,68,UC Irvine,82
+Cal State Fullerton,74,UC Riverside,84
+UC Davis,70,UC San Diego,63
+UC Irvine,81,Cal State Fullerton,71
+UC Davis,88,Long Beach State,78
+Cal Poly,87,UC San Diego,92
+UC Riverside,81,UC Santa Barbara,64
+Cal State Bakersfield,57,Hawaii,74
+Cal State Bakersfield,78,UC Riverside,83
+Cal State Northridge,87,UC Santa Barbara,84
+Cal State Northridge,68,Hawaii,75
+UC Riverside,67,Long Beach State,86
+Hawaii,65,UC Davis,68
+Long Beach State,83,UC Irvine,79
+Long Beach State,74,UC Davis,70

@@ -1,0 +1,73 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+Seattle,59,California Baptist,61
+Southern Utah,71,Grand Canyon,82
+UT Arlington,74,Tarleton State,77
+Abilene Christian,53,Utah Valley,64
+Tarleton State,74,Southern Utah,66
+UT Arlington,62,Utah Tech,74
+Grand Canyon,64,Utah Valley,72
+Abilene Christian,64,Seattle,66
+UT Arlington,68,Southern Utah,73
+Tarleton State,54,Utah Tech,58
+California Baptist,69,Utah Valley,75
+Abilene Christian,58,Grand Canyon,88
+Utah Tech,62,Seattle,82
+California Baptist,57,Tarleton State,67
+Utah Valley,85,UT Arlington,83
+California Baptist,60,Abilene Christian,54
+Tarleton State,64,Grand Canyon,88
+Southern Utah,52,Seattle,75
+Utah Tech,80,Utah Valley,96
+Tarleton State,56,Abilene Christian,67
+Utah Valley,74,California Baptist,69
+Grand Canyon,74,Southern Utah,59
+Seattle,56,UT Arlington,65
+UT Arlington,79,Abilene Christian,76
+Utah Valley,70,Seattle,66
+California Baptist,76,Southern Utah,60
+Grand Canyon,79,Utah Tech,66
+Abilene Christian,60,California Baptist,83
+Seattle,74,Grand Canyon,83
+Utah Tech,54,Tarleton State,61
+Southern Utah,68,UT Arlington,70
+Utah Valley,57,Grand Canyon,75
+Southern Utah,58,Tarleton State,75
+Utah Tech,71,UT Arlington,73
+Southern Utah,60,California Baptist,57
+Tarleton State,54,Seattle,91
+Abilene Christian,86,Utah Tech,72
+UT Arlington,73,Utah Valley,94
+Grand Canyon,71,California Baptist,85
+UT Arlington,65,Seattle,67
+Abilene Christian,84,Southern Utah,70
+Tarleton State,56,Utah Valley,81
+Seattle,59,Abilene Christian,75
+Utah Tech,74,Southern Utah,76
+Grand Canyon,64,Tarleton State,60
+California Baptist,79,UT Arlington,82
+Utah Tech,83,California Baptist,86
+Utah Valley,70,Southern Utah,68
+Seattle,64,Tarleton State,67
+Grand Canyon,82,UT Arlington,75
+Southern Utah,59,Abilene Christian,75
+Utah Valley,79,Utah Tech,77
+Utah Tech,72,Abilene Christian,80
+California Baptist,64,Grand Canyon,66
+Tarleton State,57,UT Arlington,67
+Seattle,55,Utah Valley,61
+UT Arlington,71,Grand Canyon,85
+California Baptist,48,Seattle,72
+Abilene Christian,52,Tarleton State,67
+Southern Utah,82,Utah Tech,75
+Grand Canyon,63,Seattle,60
+Abilene Christian,70,UT Arlington,59
+California Baptist,61,Utah Tech,57
+Southern Utah,59,Utah Valley,100
+Utah Valley,73,Abilene Christian,60
+Tarleton State,48,California Baptist,68
+Utah Tech,68,Grand Canyon,90
+Seattle,62,Southern Utah,39
+Grand Canyon,81,Abilene Christian,82
+UT Arlington,68,California Baptist,70
+Utah Valley,71,Tarleton State,66
+Seattle,70,Utah Tech,65

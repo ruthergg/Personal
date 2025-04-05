@@ -1,0 +1,85 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+,,,
+Wagner,67,Long Island University,69
+FDU,56,Merrimack,60
+Saint Francis (PA),67,Sacred Heart,79
+Central Connecticut State,74,Stonehill,59
+Central Connecticut State,,Stonehill,
+Le Moyne,74,FDU,63
+Sacred Heart,58,Merrimack,82
+Long Island University,73,Stonehill,68
+Saint Francis (PA),56,Wagner,71
+Stonehill,74,FDU,81
+Merrimack,66,Le Moyne,62
+Long Island University,55,Sacred Heart,89
+Central Connecticut State,75,Saint Francis (PA),61
+Merrimack,70,Central Connecticut State,75
+Sacred Heart,80,Le Moyne,73
+FDU,81,Saint Francis (PA),71
+Stonehill,54,Wagner,64
+Le Moyne,75,Central Connecticut State,73
+Wagner,71,Merrimack,65
+Long Island University,66,Saint Francis (PA),72
+FDU,76,Stonehill,69
+Le Moyne,,Central Connecticut State,
+Saint Francis (PA),57,Le Moyne,94
+Central Connecticut State,72,Long Island University,63
+Stonehill,47,Merrimack,63
+Wagner,61,Sacred Heart,66
+Central Connecticut State,76,FDU,60
+Stonehill,60,Long Island University,63
+Sacred Heart,71,Saint Francis (PA),75
+Merrimack,60,Wagner,44
+Wagner,68,Central Connecticut State,69
+Sacred Heart,91,FDU,93
+Long Island University,74,Le Moyne,87
+Merrimack,74,Saint Francis (PA),55
+Saint Francis (PA),62,Central Connecticut State,63
+Long Island University,75,FDU,82
+Stonehill,72,Sacred Heart,77
+Le Moyne,57,Wagner,80
+Saint Francis (PA),,Central Connecticut State,
+Saint Francis (PA),67,Long Island University,70
+Central Connecticut State,68,Merrimack,71
+Le Moyne,81,Sacred Heart,87
+Wagner,61,Stonehill,71
+Sacred Heart,70,Central Connecticut State,77
+Wagner,66,FDU,62
+Merrimack,82,Long Island University,79
+Le Moyne,88,Stonehill,57
+FDU,62,Central Connecticut State,71
+Sacred Heart,58,Long Island University,75
+Le Moyne,50,Merrimack,66
+Stonehill,63,Saint Francis (PA),72
+Central Connecticut State,64,Le Moyne,69
+FDU,84,Long Island University,82
+Wagner,65,Saint Francis (PA),63
+Merrimack,66,Stonehill,63
+Saint Francis (PA),74,FDU,93
+Stonehill,67,Le Moyne,75
+Long Island University,68,Merrimack,83
+Sacred Heart,63,Wagner,53
+Le Moyne,64,Long Island University,76
+Saint Francis (PA),60,Merrimack,71
+FDU,91,Sacred Heart,99
+Central Connecticut State,73,Wagner,72
+FDU,68,Le Moyne,58
+Central Connecticut State,68,Sacred Heart,67
+Saint Francis (PA),63,Stonehill,72
+Long Island University,57,Wagner,72
+Long Island University,64,Central Connecticut State,78
+Merrimack,74,FDU,55
+Wagner,56,Le Moyne,70
+Sacred Heart,79,Stonehill,51
+Long Island University,,Central Connecticut State,
+Stonehill,67,Central Connecticut State,79
+Merrimack,85,Sacred Heart,89
+Le Moyne,74,Saint Francis (PA),58
+FDU,57,Wagner,54
+Saint Francis (PA),62,Central Connecticut State,71
+FDU,61,Le Moyne,82
+Long Island University,66,Merrimack,72
+Wagner,60,Sacred Heart,57
+Wagner,66,Central Connecticut State,56
+Le Moyne,51,Merrimack,61
+Wagner,54,Merrimack,47

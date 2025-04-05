@@ -1,0 +1,136 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+La Salle,70,Dayton,84
+Rhode Island,55,Duquesne,67
+Saint Louis,88,Fordham,63
+Davidson,57,George Mason,69
+George Washington,61,Richmond,66
+Massachusetts,72,Saint Joseph's,81
+Virginia Commonwealth,75,St. Bonaventure,77
+Saint Joseph's,57,Saint Louis,73
+Duquesne,71,Davidson,77
+St. Bonaventure,86,Fordham,66
+Dayton,62,George Washington,82
+Virginia Commonwealth,84,Loyola (IL),65
+Richmond,72,Massachusetts,64
+George Mason,59,Rhode Island,62
+Saint Joseph's,81,Duquesne,85
+Richmond,58,George Mason,64
+Loyola (IL),79,La Salle,68
+Dayton,72,Massachusetts,76
+George Washington,75,Rhode Island,67
+St. Bonaventure,68,Saint Louis,73
+Fordham,61,Virginia Commonwealth,73
+Fordham,64,Davidson,74
+Massachusetts,70,George Mason,77
+Rhode Island,67,Richmond,64
+Loyola (IL),57,Saint Joseph's,93
+La Salle,83,St. Bonaventure,82
+Saint Louis,62,Virginia Commonwealth,78
+George Mason,67,Dayton,59
+Massachusetts,120,Fordham,118
+Duquesne,73,George Washington,65
+Davidson,76,La Salle,79
+Rhode Island,77,Loyola (IL),81
+Richmond,49,St. Bonaventure,63
+Virginia Commonwealth,78,Saint Joseph's,69
+Loyola (IL),81,Dayton,83
+St. Bonaventure,57,Duquesne,75
+George Washington,77,George Mason,80
+Davidson,90,Rhode Island,92
+Saint Louis,63,Richmond,59
+La Salle,60,Massachusetts,82
+Saint Joseph's,78,Davidson,61
+Dayton,82,Duquesne,62
+Virginia Commonwealth,81,Rhode Island,57
+George Mason,75,St. Bonaventure,62
+Fordham,66,Loyola (IL),70
+George Washington,61,Massachusetts,74
+La Salle,52,Saint Louis,64
+Saint Joseph's,72,Dayton,77
+St. Bonaventure,61,Virginia Commonwealth,75
+Saint Louis,61,George Washington,67
+Rhode Island,64,La Salle,70
+Davidson,72,Richmond,66
+Duquesne,63,Fordham,65
+Virginia Commonwealth,69,Saint Louis,78
+Dayton,53,St. Bonaventure,75
+Loyola (IL),53,George Mason,58
+Richmond,66,George Washington,75
+Fordham,88,La Salle,72
+Massachusetts,82,Rhode Island,88
+Duquesne,72,Saint Joseph's,76
+Dayton,71,Saint Louis,63
+George Mason,64,Davidson,60
+Massachusetts,62,Duquesne,53
+George Washington,67,La Salle,73
+Saint Joseph's,55,Loyola (IL),58
+Fordham,72,St. Bonaventure,74
+Richmond,49,Virginia Commonwealth,90
+Davidson,63,Dayton,69
+St. Bonaventure,53,Loyola (IL),77
+Saint Louis,73,Massachusetts,71
+La Salle,66,Virginia Commonwealth,96
+Rhode Island,79,Fordham,80
+George Mason,53,George Washington,50
+Duquesne,68,Richmond,73
+Virginia Commonwealth,73,Dayton,68
+Saint Louis,63,Saint Joseph's,76
+Richmond,60,Davidson,71
+Loyola (IL),56,Duquesne,69
+Rhode Island,67,George Mason,82
+Massachusetts,78,La Salle,55
+George Washington,62,St. Bonaventure,52
+Loyola (IL),87,Richmond,80
+George Mason,76,Saint Louis,74
+Dayton,93,Fordham,76
+Virginia Commonwealth,80,George Washington,72
+Davidson,77,Massachusetts,68
+St. Bonaventure,64,Rhode Island,68
+La Salle,63,Saint Joseph's,75
+Saint Louis,69,Loyola (IL),78
+George Washington,74,Davidson,67
+Duquesne,76,Dayton,77
+Saint Joseph's,57,George Mason,58
+St. Bonaventure,73,Massachusetts,59
+La Salle,71,Rhode Island,86
+Fordham,66,Richmond,70
+Loyola (IL),77,Davidson,69
+Fordham,64,Duquesne,73
+Saint Joseph's,79,George Washington,68
+Richmond,63,La Salle,58
+Massachusetts,51,Virginia Commonwealth,80
+Dayton,72,Loyola (IL),76
+Davidson,80,Fordham,69
+Massachusetts,52,George Washington,74
+Richmond,62,Saint Joseph's,78
+Rhode Island,66,Saint Louis,81
+Duquesne,63,St. Bonaventure,70
+George Mason,54,Virginia Commonwealth,70
+Saint Louis,57,Davidson,56
+Virginia Commonwealth,78,Richmond,60
+Fordham,64,George Mason,74
+Duquesne,67,La Salle,62
+George Washington,57,Loyola (IL),77
+Dayton,85,Rhode Island,77
+St. Bonaventure,64,Saint Joseph's,75
+Davidson,56,Virginia Commonwealth,80
+Richmond,64,Dayton,74
+George Mason,68,Duquesne,85
+Saint Joseph's,90,Fordham,76
+La Salle,60,George Washington,71
+Rhode Island,88,Massachusetts,91
+Loyola (IL),67,Saint Louis,98
+Saint Louis,67,Dayton,75
+Virginia Commonwealth,71,Duquesne,62
+George Washington,81,Fordham,58
+La Salle,62,George Mason,69
+Davidson,72,Loyola (IL),82
+Rhode Island,74,Saint Joseph's,91
+Massachusetts,72,St. Bonaventure,73
+Dayton,79,Virginia Commonwealth,76
+St. Bonaventure,64,Davidson,61
+Saint Joseph's,74,La Salle,81
+Loyola (IL),74,Massachusetts,51
+Fordham,67,Rhode Island,86
+George Mason,64,Richmond,60
+Duquesne,88,Saint Louis,90

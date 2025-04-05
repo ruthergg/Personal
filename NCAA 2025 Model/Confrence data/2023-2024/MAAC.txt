@@ -1,0 +1,122 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+,,,
+Marist,68,Iona,64
+Quinnipiac,73,Canisius,93
+Iona,78,Fairfield,67
+Mount St. Mary's,74,Manhattan,75
+Saint Peter's,72,Niagara,67
+Rider,65,Siena,67
+Saint Peter's,54,Canisius,52
+Manhattan,56,Marist,70
+Siena,48,Mount St. Mary's,80
+Quinnipiac,75,Niagara,68
+Fairfield,88,Rider,81
+Niagara,81,Manhattan,67
+Canisius,69,Mount St. Mary's,74
+Rider,84,Quinnipiac,88
+Iona,57,Saint Peter's,69
+Fairfield,93,Siena,69
+Marist,61,Fairfield,82
+Niagara,75,Iona,73
+Manhattan,59,Quinnipiac,76
+Canisius,76,Rider,79
+Mount St. Mary's,64,Saint Peter's,70
+Siena,63,Canisius,67
+Quinnipiac,66,Marist,55
+Fairfield,72,Niagara,96
+Manhattan,58,Rider,71
+Mount St. Mary's,70,Iona,87
+Saint Peter's,81,Manhattan,68
+Rider,60,Marist,83
+Fairfield,88,Canisius,63
+Siena,93,Niagara,88
+Saint Peter's,67,Fairfield,76
+Canisius,58,Iona,70
+Marist,48,Mount St. Mary's,65
+Niagara,78,Rider,74
+Quinnipiac,82,Siena,70
+Fairfield,82,Manhattan,75
+Siena,48,Marist,50
+Niagara,82,Mount St. Mary's,71
+Iona,87,Quinnipiac,91
+Canisius,59,Saint Peter's,70
+Mount St. Mary's,65,Quinnipiac,79
+Rider,62,Saint Peter's,57
+Manhattan,70,Canisius,82
+Marist,62,Niagara,67
+Iona,70,Siena,51
+Rider,66,Mount St. Mary's,62
+Marist,80,Canisius,71
+Quinnipiac,66,Fairfield,64
+Manhattan,84,Niagara,78
+Saint Peter's,63,Siena,52
+Fairfield,82,Iona,91
+Quinnipiac,77,Manhattan,71
+Mount St. Mary's,76,Marist,58
+Siena,50,Rider,91
+Niagara,68,Saint Peter's,59
+Manhattan,68,Fairfield,77
+Rider,93,Iona,94
+Saint Peter's,52,Marist,63
+Canisius,63,Quinnipiac,88
+Mount St. Mary's,68,Siena,61
+Canisius,64,Niagara,69
+Rider,67,Fairfield,84
+Manhattan,78,Mount St. Mary's,82
+Iona,74,Niagara,71
+Saint Peter's,73,Quinnipiac,84
+Marist,67,Siena,51
+Iona,69,Canisius,73
+Siena,68,Manhattan,63
+Quinnipiac,79,Mount St. Mary's,96
+Marist,77,Rider,62
+Fairfield,64,Saint Peter's,62
+Niagara,65,Fairfield,63
+Manhattan,63,Iona,73
+Canisius,55,Marist,78
+Mount St. Mary's,57,Rider,61
+Siena,53,Saint Peter's,75
+Mount St. Mary's,80,Fairfield,94
+Saint Peter's,59,Iona,53
+Rider,104,Manhattan,62
+Niagara,80,Quinnipiac,66
+Canisius,73,Siena,64
+Niagara,59,Canisius,69
+Marist,57,Manhattan,50
+Saint Peter's,70,Mount St. Mary's,65
+Fairfield,85,Quinnipiac,81
+Iona,75,Rider,78
+Siena,64,Fairfield,88
+Iona,65,Mount St. Mary's,72
+Quinnipiac,78,Rider,88
+Marist,60,Saint Peter's,69
+Mount St. Mary's,56,Canisius,61
+Quinnipiac,82,Iona,64
+Fairfield,55,Marist,58
+Rider,71,Niagara,61
+Manhattan,70,Siena,68
+Rider,65,Canisius,61
+Iona,71,Marist,64
+Mount St. Mary's,91,Niagara,72
+Siena,57,Quinnipiac,71
+Manhattan,57,Saint Peter's,89
+Canisius,62,Fairfield,74
+Iona,60,Manhattan,77
+Marist,64,Quinnipiac,73
+Saint Peter's,56,Rider,61
+Niagara,66,Siena,59
+Siena,54,Iona,68
+Canisius,73,Manhattan,70
+Niagara,62,Marist,63
+Fairfield,96,Mount St. Mary's,92
+Quinnipiac,89,Saint Peter's,74
+Manhattan,57,Iona,60
+Canisius,77,Mount St. Mary's,61
+Siena,65,Niagara,67
+Iona,63,Fairfield,68
+Canisius,52,Quinnipiac,76
+Niagara,59,Marist,65
+Saint Peter's,50,Rider,48
+Marist,61,Fairfield,65
+Saint Peter's,62,Quinnipiac,60
+Saint Peter's,68,Fairfield,63

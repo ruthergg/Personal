@@ -1,0 +1,82 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+,,,
+Pepperdine,60,Gonzaga,86
+Santa Clara,68,Loyola Marymount,57
+San Francisco,92,Pacific,88
+Saint Mary's (CA),81,San Diego,70
+San Diego,74,Gonzaga,101
+Saint Mary's (CA),68,Loyola Marymount,64
+Santa Clara,78,Pepperdine,72
+Pacific,64,Portland,78
+Pacific,78,Pepperdine,93
+Portland,52,Saint Mary's (CA),95
+San Francisco,83,San Diego,63
+Gonzaga,76,Santa Clara,77
+Pacific,64,Loyola Marymount,81
+Pepperdine,83,San Diego,77
+Portland,69,San Francisco,96
+Saint Mary's (CA),73,Santa Clara,49
+Santa Clara,88,Pacific,69
+Gonzaga,86,Pepperdine,61
+Loyola Marymount,74,San Francisco,90
+Loyola Marymount,68,Pepperdine,61
+Gonzaga,105,San Diego,63
+Saint Mary's (CA),77,San Francisco,60
+Portland,86,Santa Clara,101
+San Diego,85,Portland,81
+San Francisco,72,Gonzaga,77
+Portland,65,Loyola Marymount,92
+Pacific,28,Saint Mary's (CA),76
+Pepperdine,71,Santa Clara,94
+Gonzaga,82,Pacific,73
+San Diego,69,Pepperdine,67
+San Francisco,76,Portland,64
+Loyola Marymount,65,Saint Mary's (CA),70
+Loyola Marymount,58,Gonzaga,92
+Santa Clara,77,Saint Mary's (CA),82
+Portland,65,Pacific,60
+San Diego,79,San Francisco,95
+Saint Mary's (CA),64,Gonzaga,62
+Pepperdine,89,Portland,93
+Pacific,73,San Francisco,79
+San Diego,70,Santa Clara,59
+Saint Mary's (CA),84,Pacific,43
+Portland,64,Gonzaga,96
+Loyola Marymount,77,San Diego,79
+San Francisco,80,Pepperdine,74
+Pepperdine,72,Loyola Marymount,63
+San Diego,89,Pacific,84
+Saint Mary's (CA),76,Portland,51
+Santa Clara,70,San Francisco,71
+Gonzaga,91,Loyola Marymount,74
+Pepperdine,59,Saint Mary's (CA),103
+Portland,66,San Diego,71
+Pacific,53,Santa Clara,79
+Pacific,76,Gonzaga,102
+San Francisco,82,Loyola Marymount,59
+Portland,70,Pepperdine,91
+Santa Clara,82,San Diego,69
+San Francisco,66,Saint Mary's (CA),70
+Pepperdine,89,Pacific,70
+Gonzaga,86,Portland,65
+Loyola Marymount,55,Santa Clara,65
+Santa Clara,81,Gonzaga,94
+Loyola Marymount,86,Pacific,63
+San Diego,62,Saint Mary's (CA),88
+Pepperdine,68,San Francisco,92
+San Diego,62,Loyola Marymount,96
+Saint Mary's (CA),83,Pepperdine,57
+Santa Clara,75,Portland,80
+Gonzaga,86,San Francisco,68
+Loyola Marymount,60,Portland,70
+Gonzaga,70,Saint Mary's (CA),57
+Pacific,69,San Diego,81
+San Francisco,62,Santa Clara,69
+Pacific,43,Pepperdine,102
+Loyola Marymount,70,Portland,78
+Pepperdine,52,San Diego,57
+San Diego,79,Santa Clara,104
+Portland,51,San Francisco,72
+San Francisco,77,Gonzaga,89
+Santa Clara,65,Saint Mary's (CA),79
+Gonzaga,60,Saint Mary's (CA),69

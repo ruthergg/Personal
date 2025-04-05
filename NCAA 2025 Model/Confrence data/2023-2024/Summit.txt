@@ -1,0 +1,82 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+,,,
+Oral Roberts,60,Kansas City,77
+St. Thomas,70,North Dakota,45
+South Dakota,75,North Dakota State,66
+Denver,95,Omaha,80
+Oral Roberts,89,Denver,86
+Omaha,67,South Dakota,51
+North Dakota,61,South Dakota State,80
+Kansas City,56,St. Thomas,77
+North Dakota State,92,Kansas City,91
+North Dakota,61,Omaha,79
+South Dakota,66,Oral Roberts,84
+South Dakota State,81,St. Thomas,80
+South Dakota State,80,Denver,99
+North Dakota,82,Kansas City,69
+North Dakota State,92,Omaha,96
+St. Thomas,87,Oral Roberts,76
+Oral Roberts,77,North Dakota,87
+Denver,78,North Dakota State,70
+St. Thomas,73,South Dakota,74
+Omaha,87,South Dakota State,90
+Denver,78,North Dakota,92
+Oral Roberts,67,North Dakota State,72
+Kansas City,74,Omaha,72
+South Dakota State,73,South Dakota,55
+South Dakota,110,Denver,111
+Omaha,67,Oral Roberts,74
+Kansas City,66,South Dakota State,75
+North Dakota State,66,St. Thomas,79
+Omaha,91,Denver,72
+South Dakota,57,Kansas City,81
+South Dakota State,82,Oral Roberts,87
+North Dakota,74,St. Thomas,64
+Denver,71,Kansas City,85
+St. Thomas,65,Omaha,69
+North Dakota,95,South Dakota,81
+North Dakota State,74,South Dakota State,73
+St. Thomas,71,Kansas City,56
+North Dakota State,58,North Dakota,60
+Denver,76,Oral Roberts,82
+South Dakota,67,South Dakota State,70
+Omaha,78,North Dakota,99
+Kansas City,78,North Dakota State,82
+Denver,86,South Dakota,92
+Oral Roberts,63,St. Thomas,85
+St. Thomas,77,Denver,94
+Kansas City,65,North Dakota,47
+Omaha,79,North Dakota State,81
+Oral Roberts,72,South Dakota State,83
+North Dakota,92,Denver,78
+South Dakota State,67,Kansas City,72
+South Dakota,84,Omaha,91
+North Dakota State,73,Oral Roberts,60
+North Dakota State,71,Denver,77
+South Dakota State,85,Omaha,77
+North Dakota,78,Oral Roberts,65
+South Dakota,80,St. Thomas,83
+St. Thomas,50,North Dakota State,64
+Oral Roberts,70,Omaha,71
+Kansas City,82,South Dakota,78
+Denver,70,South Dakota State,97
+Omaha,58,Kansas City,63
+North Dakota,68,North Dakota State,73
+Oral Roberts,76,South Dakota,77
+St. Thomas,72,South Dakota State,77
+Kansas City,84,Denver,69
+South Dakota State,72,North Dakota,62
+North Dakota State,68,South Dakota,88
+Omaha,61,St. Thomas,88
+South Dakota,66,North Dakota,95
+South Dakota State,78,North Dakota State,61
+Denver,58,St. Thomas,83
+Kansas City,71,Oral Roberts,54
+South Dakota,62,Oral Roberts,77
+Denver,61,Kansas City,60
+Oral Roberts,63,South Dakota State,79
+Omaha,73,North Dakota,72
+North Dakota State,58,St. Thomas,68
+Denver,66,Omaha,63
+St. Thomas,49,South Dakota State,59
+Denver,68,South Dakota State,76

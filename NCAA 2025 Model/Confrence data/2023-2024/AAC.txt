@@ -1,0 +1,141 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+,,,
+East Carolina,64,Florida Atlantic,79
+Charlotte,54,Southern Methodist,66
+UAB,78,UTSA,76
+Rice,59,Tulane,84
+Temple,68,South Florida,76
+Memphis,78,Tulsa,75
+North Texas,74,Wichita State,62
+Florida Atlantic,68,Charlotte,70
+Tulane,56,North Texas,70
+UTSA,89,Rice,82
+Tulsa,57,East Carolina,62
+Southern Methodist,59,Memphis,62
+Wichita State,61,Temple,68
+South Florida,71,UAB,75
+Tulsa,76,Charlotte,84
+UTSA,101,Memphis,107
+East Carolina,73,Temple,62
+Florida Atlantic,85,Tulane,84
+Rice,73,South Florida,81
+Southern Methodist,75,East Carolina,64
+Temple,51,North Texas,69
+Charlotte,66,UTSA,58
+UAB,73,Florida Atlantic,86
+Tulane,94,Tulsa,87
+Memphis,112,Wichita State,86
+Charlotte,81,Rice,79
+Temple,64,Southern Methodist,77
+North Texas,60,East Carolina,59
+UTSA,78,Tulsa,107
+Tulane,69,UAB,83
+Wichita State,77,Florida Atlantic,86
+South Florida,74,Memphis,73
+North Texas,44,Charlotte,56
+Tulsa,70,Southern Methodist,103
+Rice,69,Temple,66
+East Carolina,61,UAB,69
+Wichita State,68,South Florida,72
+Memphis,79,Tulane,81
+Florida Atlantic,112,UTSA,103
+UAB,70,Charlotte,76
+Florida Atlantic,69,Rice,56
+South Florida,75,Temple,69
+Tulane,88,UTSA,89
+East Carolina,54,Wichita State,52
+Southern Methodist,66,North Texas,68
+Tulsa,85,Rice,83
+UTSA,72,South Florida,89
+Charlotte,75,Tulane,71
+Temple,64,East Carolina,70
+North Texas,63,Florida Atlantic,66
+Memphis,88,UAB,97
+Southern Methodist,72,Wichita State,77
+South Florida,71,East Carolina,60
+Rice,74,Memphis,71
+UAB,82,North Texas,79
+Wichita State,68,Tulsa,79
+Tulane,76,Southern Methodist,80
+East Carolina,52,Charlotte,67
+Tulsa,70,Florida Atlantic,102
+Wichita State,63,Memphis,65
+South Florida,60,North Texas,55
+Rice,80,UTSA,76
+UAB,69,Southern Methodist,72
+Temple,80,Tulane,92
+Charlotte,69,South Florida,72
+Southern Methodist,95,Rice,69
+North Texas,68,Tulsa,55
+UTSA,64,Wichita State,84
+Memphis,84,Temple,77
+Florida Atlantic,73,UAB,76
+South Florida,69,Rice,65
+East Carolina,84,UTSA,73
+Tulane,78,Memphis,90
+North Texas,68,Southern Methodist,71
+Charlotte,73,Temple,70
+UAB,70,Tulsa,63
+Florida Atlantic,95,Wichita State,82
+Tulsa,50,South Florida,69
+UTSA,70,Charlotte,79
+Wichita State,55,East Carolina,68
+Temple,68,Florida Atlantic,80
+Memphis,66,North Texas,76
+Southern Methodist,87,Tulane,79
+Rice,82,Tulsa,93
+Wichita State,61,Charlotte,72
+Tulane,67,East Carolina,81
+Florida Atlantic,86,South Florida,90
+Memphis,79,Southern Methodist,106
+UTSA,77,Temple,83
+North Texas,62,UAB,71
+Charlotte,52,Memphis,76
+Rice,94,UAB,71
+South Florida,66,UTSA,61
+Tulsa,63,Wichita State,79
+Southern Methodist,70,Florida Atlantic,80
+UTSA,64,North Texas,62
+East Carolina,52,Rice,70
+Charlotte,67,Tulsa,69
+Florida Atlantic,74,Memphis,78
+Southern Methodist,68,South Florida,79
+UAB,78,Tulane,67
+Temple,72,Wichita State,66
+Temple,65,Rice,43
+North Texas,80,Tulane,76
+Wichita State,74,UAB,66
+Tulsa,73,UTSA,89
+Memphis,82,East Carolina,58
+South Florida,76,Charlotte,61
+Tulane,73,Florida Atlantic,79
+UTSA,77,Southern Methodist,73
+Tulsa,72,Temple,67
+Rice,66,Wichita State,87
+UAB,87,Memphis,106
+East Carolina,69,North Texas,84
+Tulane,72,South Florida,85
+Rice,64,Charlotte,69
+Florida Atlantic,80,North Texas,76
+East Carolina,77,Southern Methodist,80
+UAB,100,Temple,72
+Wichita State,75,Tulane,85
+Charlotte,82,East Carolina,72
+Memphis,84,Florida Atlantic,92
+North Texas,71,Rice,55
+South Florida,70,Tulsa,76
+Southern Methodist,70,UAB,74
+Temple,84,UTSA,82
+UTSA,61,Temple,64
+Rice,81,Wichita State,88
+Tulsa,79,East Carolina,84
+Wichita State,71,Memphis,65
+Tulane,71,North Texas,81
+Temple,75,Southern Methodist,60
+Temple,58,Charlotte,54
+North Texas,71,Florida Atlantic,77
+East Carolina,59,South Florida,81
+Wichita State,60,UAB,72
+Temple,74,Florida Atlantic,73
+UAB,93,South Florida,83
+Temple,69,UAB,85

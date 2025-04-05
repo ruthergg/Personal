@@ -1,0 +1,118 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+Tennessee Tech,68,Western Illinois,71
+Tennessee Tech,79,Lindenwood,73
+Southern Illinois-Edwardsville,56,Little Rock,60
+Tennessee-Martin,69,Morehead State,70
+Eastern Illinois,72,Southeast Missouri State,79
+Tennessee State,75,Southern Indiana,77
+Western Illinois,65,Lindenwood,71
+Tennessee State,68,Morehead State,74
+Southern Illinois-Edwardsville,64,Southeast Missouri State,80
+Tennessee-Martin,77,Southern Indiana,46
+Morehead State,70,Southern Indiana,68
+Lindenwood,74,Eastern Illinois,78
+Western Illinois,66,Southern Illinois-Edwardsville,77
+Southeast Missouri State,67,Tennessee State,65
+Southern Indiana,64,Tennessee Tech,68
+Little Rock,57,Tennessee-Martin,56
+Western Illinois,75,Eastern Illinois,67
+Lindenwood,47,Southern Illinois-Edwardsville,58
+Little Rock,86,Tennessee State,95
+Morehead State,55,Tennessee Tech,74
+Southeast Missouri State,63,Tennessee-Martin,66
+Southern Illinois-Edwardsville,60,Eastern Illinois,57
+Tennessee Tech,69,Eastern Illinois,64
+Tennessee State,62,Lindenwood,72
+Morehead State,59,Little Rock,53
+Southern Indiana,66,Southeast Missouri State,77
+Tennessee-Martin,85,Western Illinois,83
+Tennessee-Martin,81,Lindenwood,82
+Morehead State,67,Southeast Missouri State,56
+Tennessee Tech,59,Southern Illinois-Edwardsville,67
+Tennessee State,72,Western Illinois,52
+Southern Indiana,58,Little Rock,78
+Little Rock,73,Southeast Missouri State,71
+Western Illinois,47,Morehead State,51
+Lindenwood,73,Southern Indiana,80
+Southern Illinois-Edwardsville,87,Tennessee State,80
+Southeast Missouri State,77,Tennessee Tech,70
+Eastern Illinois,63,Tennessee-Martin,68
+Lindenwood,65,Morehead State,82
+Western Illinois,66,Southern Indiana,78
+Eastern Illinois,65,Tennessee State,84
+Little Rock,77,Tennessee Tech,71
+Southern Illinois-Edwardsville,82,Tennessee-Martin,85
+Tennessee-Martin,80,Tennessee State,81
+Morehead State,73,Eastern Illinois,66
+Southeast Missouri State,68,Lindenwood,72
+Southern Indiana,76,Southern Illinois-Edwardsville,82
+Tennessee Tech,77,Tennessee State,89
+Little Rock,62,Western Illinois,51
+Southern Indiana,64,Eastern Illinois,60
+Little Rock,78,Lindenwood,46
+Morehead State,54,Southern Illinois-Edwardsville,65
+Tennessee Tech,89,Tennessee-Martin,85
+Southeast Missouri State,72,Western Illinois,51
+Eastern Illinois,56,Little Rock,54
+Southern Indiana,65,Morehead State,66
+Southern Illinois-Edwardsville,63,Lindenwood,65
+Tennessee State,72,Little Rock,70
+Tennessee Tech,72,Morehead State,64
+Tennessee-Martin,79,Southeast Missouri State,90
+Eastern Illinois,71,Western Illinois,59
+Eastern Illinois,76,Lindenwood,70
+Tennessee-Martin,57,Little Rock,75
+Tennessee State,87,Southeast Missouri State,89
+Tennessee Tech,78,Southern Indiana,65
+Southern Illinois-Edwardsville,69,Western Illinois,65
+Eastern Illinois,41,Southern Illinois-Edwardsville,66
+Southeast Missouri State,80,Morehead State,51
+Little Rock,74,Southern Indiana,56
+Western Illinois,69,Tennessee State,87
+Southern Illinois-Edwardsville,75,Tennessee Tech,58
+Lindenwood,52,Tennessee-Martin,51
+Little Rock,76,Morehead State,62
+Southeast Missouri State,79,Southern Indiana,74
+Lindenwood,76,Tennessee State,84
+Eastern Illinois,54,Tennessee Tech,59
+Western Illinois,70,Tennessee-Martin,81
+Southeast Missouri State,57,Little Rock,45
+Tennessee State,66,Eastern Illinois,49
+Morehead State,60,Lindenwood,73
+Tennessee Tech,75,Little Rock,79
+Tennessee-Martin,76,Southern Illinois-Edwardsville,71
+Southern Indiana,62,Western Illinois,87
+Tennessee-Martin,72,Eastern Illinois,68
+Southern Indiana,78,Lindenwood,81
+Tennessee Tech,69,Southeast Missouri State,83
+Tennessee State,72,Southern Illinois-Edwardsville,84
+Morehead State,67,Western Illinois,72
+Tennessee State,86,Tennessee-Martin,75
+Lindenwood,93,Little Rock,92
+Southern Illinois-Edwardsville,80,Morehead State,62
+Western Illinois,66,Southeast Missouri State,87
+Eastern Illinois,63,Southern Indiana,54
+Tennessee-Martin,66,Tennessee Tech,71
+Western Illinois,61,Little Rock,75
+Eastern Illinois,67,Morehead State,62
+Lindenwood,58,Southeast Missouri State,74
+Southern Illinois-Edwardsville,68,Southern Indiana,82
+Tennessee State,74,Tennessee Tech,77
+Lindenwood,81,Western Illinois,86
+Little Rock,60,Eastern Illinois,71
+Southeast Missouri State,83,Southern Illinois-Edwardsville,68
+Morehead State,55,Tennessee State,64
+Western Illinois,82,Tennessee Tech,69
+Southern Indiana,63,Tennessee-Martin,79
+Southeast Missouri State,58,Eastern Illinois,73
+Little Rock,65,Southern Illinois-Edwardsville,73
+Southern Indiana,69,Tennessee State,74
+Lindenwood,76,Tennessee Tech,74
+Morehead State,59,Tennessee-Martin,47
+Morehead State,65,Lindenwood,73
+Tennessee-Martin,70,Tennessee Tech,67
+Tennessee-Martin,77,Little Rock,82
+Lindenwood,55,Tennessee State,69
+Little Rock,59,Southeast Missouri State,78
+Tennessee State,69,Southern Illinois-Edwardsville,71
+Southern Illinois-Edwardsville,69,Southeast Missouri State,48

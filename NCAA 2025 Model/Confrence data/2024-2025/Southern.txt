@@ -1,0 +1,99 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+Virginia Military Institute,69,East Tennessee State,84
+Chattanooga,94,Mercer,99
+The Citadel,56,Samford,86
+Furman,90,Western Carolina,61
+UNC Greensboro,68,Wofford,66
+Wofford,81,East Tennessee State,78
+Chattanooga,81,The Citadel,68
+Furman,67,UNC Greensboro,84
+Mercer,70,Virginia Military Institute,67
+Samford,88,Western Carolina,69
+East Tennessee State,70,Mercer,68
+Furman,67,The Citadel,63
+Western Carolina,69,Wofford,77
+UNC Greensboro,78,Chattanooga,75
+Virginia Military Institute,68,Samford,81
+The Citadel,52,East Tennessee State,70
+UNC Greensboro,69,Samford,76
+Virginia Military Institute,66,Chattanooga,91
+Mercer,82,Western Carolina,85
+Wofford,81,Furman,62
+Wofford,81,Chattanooga,83
+East Tennessee State,70,Furman,73
+Samford,75,Mercer,74
+The Citadel,57,UNC Greensboro,70
+Western Carolina,50,Virginia Military Institute,66
+Chattanooga,75,Furman,71
+East Tennessee State,65,Samford,60
+Virginia Military Institute,75,The Citadel,70
+UNC Greensboro,83,Western Carolina,55
+Mercer,49,Wofford,69
+Western Carolina,58,East Tennessee State,85
+Mercer,79,UNC Greensboro,78
+Furman,82,Virginia Military Institute,91
+The Citadel,68,Wofford,79
+Samford,73,Chattanooga,69
+Chattanooga,71,East Tennessee State,63
+Furman,79,Mercer,74
+Wofford,61,Samford,77
+Western Carolina,80,The Citadel,78
+UNC Greensboro,60,Virginia Military Institute,57
+Samford,70,Furman,72
+The Citadel,46,Mercer,80
+East Tennessee State,65,UNC Greensboro,70
+Chattanooga,84,Western Carolina,60
+Virginia Military Institute,74,Wofford,67
+Mercer,84,Chattanooga,93
+Samford,83,The Citadel,58
+Wofford,74,UNC Greensboro,62
+Virginia Military Institute,80,Western Carolina,76
+Furman,69,East Tennessee State,72
+Western Carolina,75,Furman,84
+Mercer,79,Samford,100
+UNC Greensboro,76,The Citadel,61
+East Tennessee State,62,Virginia Military Institute,55
+Chattanooga,79,Wofford,70
+Furman,72,Chattanooga,85
+Samford,59,East Tennessee State,66
+Wofford,77,Mercer,66
+Western Carolina,70,UNC Greensboro,74
+The Citadel,70,Virginia Military Institute,82
+Mercer,72,Furman,96
+Chattanooga,82,Samford,68
+Wofford,74,The Citadel,71
+Virginia Military Institute,54,UNC Greensboro,80
+East Tennessee State,67,Western Carolina,76
+East Tennessee State,71,Chattanooga,78
+UNC Greensboro,58,Furman,50
+Virginia Military Institute,80,Mercer,71
+The Citadel,73,Western Carolina,76
+Samford,76,Wofford,68
+Western Carolina,86,Chattanooga,91
+UNC Greensboro,49,East Tennessee State,65
+Furman,80,Samford,72
+Mercer,62,The Citadel,52
+Wofford,82,Virginia Military Institute,43
+The Citadel,75,Chattanooga,76
+Virginia Military Institute,71,Furman,75
+UNC Greensboro,78,Mercer,61
+Western Carolina,72,Samford,93
+East Tennessee State,73,Wofford,68
+Mercer,58,East Tennessee State,59
+The Citadel,42,Furman,85
+Wofford,90,Western Carolina,67
+Chattanooga,75,UNC Greensboro,63
+Samford,95,Virginia Military Institute,83
+Western Carolina,69,Mercer,81
+East Tennessee State,81,The Citadel,66
+Samford,100,UNC Greensboro,108
+Chattanooga,91,Virginia Military Institute,70
+Furman,78,Wofford,75
+Western Carolina,66,Mercer,67
+The Citadel,62,Virginia Military Institute,73
+Mercer,61,Chattanooga,76
+Wofford,72,East Tennessee State,60
+Furman,95,Samford,78
+Virginia Military Institute,64,UNC Greensboro,57
+Furman,80,Chattanooga,77
+Virginia Military Institute,65,Wofford,85

@@ -1,0 +1,111 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+San Diego State,84,Fresno State,62
+San Jose State,77,New Mexico,83
+Wyoming,67,Utah State,70
+Air Force,59,Boise State,77
+Colorado State,66,Nevada,64
+New Mexico,76,Colorado State,68
+Fresno State,77,Nevada-Las Vegas,87
+Utah State,67,San Diego State,66
+Boise State,73,San Jose State,71
+Nevada,63,Wyoming,66
+Nevada-Las Vegas,77,Air Force,58
+New Mexico,103,Fresno State,89
+Utah State,69,Nevada,64
+Colorado State,72,San Jose State,50
+Boise State,67,Wyoming,58
+Nevada,81,New Mexico,82
+Wyoming,70,Air Force,65
+San Diego State,76,Boise State,68
+San Jose State,73,Nevada-Las Vegas,79
+Fresno State,83,Utah State,89
+Nevada-Las Vegas,59,Boise State,81
+Fresno State,64,Colorado State,91
+Utah State,85,San Jose State,78
+New Mexico,61,Wyoming,53
+Air Force,38,San Diego State,67
+San Jose State,69,Air Force,62
+Nevada-Las Vegas,62,Colorado State,84
+Nevada,77,Fresno State,66
+San Diego State,48,New Mexico,62
+Boise State,79,Utah State,81
+Wyoming,55,Boise State,96
+Air Force,62,Nevada,68
+Colorado State,60,San Diego State,75
+New Mexico,70,San Jose State,71
+Utah State,62,Nevada-Las Vegas,65
+Air Force,65,Fresno State,74
+Boise State,65,New Mexico,84
+San Jose State,64,Nevada,75
+Nevada-Las Vegas,76,San Diego State,68
+Colorado State,79,Wyoming,63
+Fresno State,67,New Mexico,95
+Wyoming,63,Nevada-Las Vegas,61
+San Diego State,77,Air Force,76
+Boise State,72,Colorado State,75
+Nevada,69,Utah State,90
+Utah State,87,Air Force,58
+Colorado State,69,Fresno State,64
+San Diego State,69,Nevada,50
+New Mexico,75,Nevada-Las Vegas,73
+Wyoming,58,San Jose State,67
+Air Force,58,Colorado State,79
+San Jose State,68,San Diego State,71
+Fresno State,72,Wyoming,83
+Nevada,56,Boise State,66
+Nevada-Las Vegas,71,Utah State,76
+Fresno State,60,Boise State,82
+Nevada-Las Vegas,65,Nevada,71
+Wyoming,61,San Diego State,63
+Air Force,64,San Jose State,75
+New Mexico,82,Utah State,63
+Nevada,74,Air Force,60
+San Jose State,94,Fresno State,91
+Boise State,71,Nevada-Las Vegas,62
+Utah State,71,Wyoming,67
+Colorado State,65,New Mexico,87
+San Jose State,52,Boise State,79
+Utah State,89,Fresno State,81
+New Mexico,88,Air Force,53
+San Diego State,63,Colorado State,68
+Nevada-Las Vegas,68,Wyoming,57
+Fresno State,69,Nevada,94
+Air Force,52,Nevada-Las Vegas,77
+San Diego State,69,San Jose State,66
+Colorado State,85,Utah State,93
+Wyoming,67,New Mexico,71
+Nevada,73,San Jose State,58
+Wyoming,53,Colorado State,88
+Nevada-Las Vegas,52,Fresno State,51
+Boise State,47,San Diego State,64
+Utah State,79,New Mexico,82
+Nevada,71,Colorado State,79
+Fresno State,60,San Diego State,83
+Air Force,62,Wyoming,69
+New Mexico,78,Boise State,86
+San Jose State,57,Utah State,105
+Fresno State,69,Air Force,72
+Boise State,70,Nevada,69
+Colorado State,61,Nevada-Las Vegas,53
+San Diego State,71,Utah State,79
+San Jose State,82,Wyoming,73
+Colorado State,77,Air Force,55
+Wyoming,61,Nevada,84
+New Mexico,65,San Diego State,73
+Nevada-Las Vegas,77,San Jose State,71
+Utah State,65,Boise State,82
+Nevada,55,Nevada-Las Vegas,68
+Utah State,66,Colorado State,93
+Boise State,66,Fresno State,61
+Air Force,71,New Mexico,92
+San Diego State,72,Wyoming,69
+Boise State,80,Air Force,57
+San Jose State,56,Colorado State,83
+Wyoming,58,Fresno State,62
+New Mexico,71,Nevada,67
+San Diego State,67,Nevada-Las Vegas,74
+Colorado State,83,Boise State,73
+Nevada-Las Vegas,67,New Mexico,81
+Nevada,61,San Diego State,80
+Fresno State,68,San Jose State,92
+Air Force,47,Utah State,87

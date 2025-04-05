@@ -1,0 +1,82 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+,,,
+UTEP,53,New Mexico State,63
+Florida International,63,Jacksonville State,70
+Louisiana Tech,77,Sam Houston,81
+Liberty,68,Western Kentucky,70
+Jacksonville State,61,Liberty,51
+Western Kentucky,74,Sam Houston,78
+New Mexico State,67,Florida International,77
+Louisiana Tech,60,Middle Tennessee,52
+UTEP,68,Florida International,72
+Sam Houston,60,Middle Tennessee,51
+Jacksonville State,69,Western Kentucky,80
+Liberty,76,Louisiana Tech,80
+Florida International,69,Liberty,78
+Western Kentucky,70,New Mexico State,72
+Middle Tennessee,59,UTEP,73
+Louisiana Tech,74,Jacksonville State,57
+Sam Houston,66,Liberty,82
+Middle Tennessee,62,New Mexico State,73
+Western Kentucky,87,UTEP,93
+Jacksonville State,67,Middle Tennessee,75
+UTEP,54,Louisiana Tech,68
+New Mexico State,67,Sam Houston,79
+Florida International,91,Western Kentucky,105
+Liberty,62,Jacksonville State,73
+New Mexico State,53,Louisiana Tech,73
+Florida International,61,Middle Tennessee,79
+UTEP,56,Sam Houston,60
+Louisiana Tech,93,Florida International,53
+Liberty,73,New Mexico State,79
+Jacksonville State,71,UTEP,79
+Sam Houston,79,Western Kentucky,77
+Sam Houston,61,Florida International,68
+Jacksonville State,65,New Mexico State,67
+Liberty,67,UTEP,65
+Middle Tennessee,65,Western Kentucky,88
+Western Kentucky,81,Louisiana Tech,76
+Sam Houston,68,Jacksonville State,79
+Middle Tennessee,53,Liberty,88
+Middle Tennessee,68,Florida International,66
+Western Kentucky,70,Jacksonville State,59
+Louisiana Tech,62,Liberty,65
+New Mexico State,49,UTEP,74
+Jacksonville State,58,Louisiana Tech,63
+New Mexico State,69,Middle Tennessee,76
+Florida International,56,Sam Houston,70
+UTEP,80,Western Kentucky,90
+Florida International,68,Louisiana Tech,75
+UTEP,90,Middle Tennessee,96
+Liberty,73,Sam Houston,83
+New Mexico State,58,Western Kentucky,72
+Middle Tennessee,68,Jacksonville State,76
+Liberty,71,Florida International,76
+Sam Houston,79,New Mexico State,58
+Louisiana Tech,65,UTEP,59
+Jacksonville State,77,Florida International,75
+Western Kentucky,72,Middle Tennessee,74
+Louisiana Tech,67,New Mexico State,58
+Sam Houston,65,UTEP,54
+Louisiana Tech,90,Western Kentucky,84
+UTEP,72,Jacksonville State,65
+New Mexico State,58,Liberty,83
+Western Kentucky,83,Florida International,85
+New Mexico State,66,Jacksonville State,64
+UTEP,67,Liberty,51
+Middle Tennessee,64,Sam Houston,81
+Liberty,61,Middle Tennessee,69
+Sam Houston,72,Louisiana Tech,66
+Florida International,76,UTEP,83
+Western Kentucky,79,Liberty,82
+Middle Tennessee,70,Louisiana Tech,84
+Florida International,70,New Mexico State,77
+Jacksonville State,73,Sam Houston,81
+Florida International,76,Jacksonville State,67
+Middle Tennessee,70,Louisiana Tech,67
+Florida International,59,Sam Houston,78
+UTEP,66,Liberty,57
+New Mexico State,69,Western Kentucky,89
+UTEP,65,Sam Houston,63
+Middle Tennessee,54,Western Kentucky,85
+UTEP,71,Western Kentucky,78

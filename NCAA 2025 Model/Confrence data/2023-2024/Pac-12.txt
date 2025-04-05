@@ -1,0 +1,133 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+,,,
+Southern California,74,Oregon,82
+UCLA,69,Oregon State,62
+Arizona,100,California,81
+Washington,69,Colorado,73
+Arizona State,76,Stanford,73
+Washington State,58,Utah,80
+UCLA,59,Oregon,64
+Southern California,70,Oregon State,86
+Arizona State,71,California,69
+Washington State,67,Colorado,74
+Arizona,82,Stanford,100
+Washington,90,Utah,95
+California,74,Southern California,82
+Stanford,59,UCLA,53
+Colorado,50,Arizona,97
+Utah,70,Arizona State,82
+Oregon,76,Washington,74
+Oregon State,58,Washington State,65
+Utah,73,Arizona,92
+Colorado,73,Arizona State,76
+Stanford,79,Southern California,93
+California,66,UCLA,57
+Oregon State,72,Washington,79
+Oregon,89,Washington State,84
+Colorado,78,California,82
+Washington State,72,Southern California,64
+Stanford,88,Oregon State,84
+UCLA,44,Utah,90
+Arizona State,67,Washington,82
+Southern California,58,Colorado,68
+California,73,Oregon,80
+Arizona,70,Washington State,73
+Utah,73,Stanford,79
+Washington,61,UCLA,73
+Southern California,67,Arizona,82
+UCLA,68,Arizona State,66
+Washington,77,California,75
+Oregon,70,Colorado,86
+Washington State,89,Stanford,75
+Oregon State,47,Utah,74
+UCLA,71,Arizona,77
+Southern California,67,Arizona State,82
+Washington State,75,California,81
+Oregon State,57,Colorado,90
+Washington,80,Stanford,90
+Oregon,77,Utah,80
+Colorado,98,Washington,81
+Utah,57,Washington State,79
+Arizona State,61,Oregon,80
+Arizona,80,Oregon State,83
+Stanford,71,California,73
+Arizona,87,Oregon,78
+Arizona State,71,Oregon State,84
+UCLA,65,Southern California,50
+Utah,73,Washington,98
+Colorado,69,Washington State,78
+California,65,Arizona,91
+Stanford,71,Arizona State,62
+Oregon,78,Southern California,69
+Oregon State,63,UCLA,71
+California,81,Arizona State,66
+Oregon State,54,Southern California,82
+Oregon,63,UCLA,71
+Colorado,68,Utah,73
+Washington State,90,Washington,87
+Stanford,71,Arizona,82
+Southern California,77,California,83
+UCLA,82,Stanford,74
+Arizona State,70,Colorado,82
+Washington,80,Oregon,85
+Washington State,64,Oregon State,58
+Arizona,105,Utah,99
+UCLA,61,California,60
+Arizona,99,Colorado,79
+Washington State,62,Oregon,56
+Washington,67,Oregon State,55
+Southern California,68,Stanford,99
+Arizona State,85,Utah,77
+Oregon State,61,Arizona State,79
+Utah,64,Southern California,68
+Colorado,60,UCLA,64
+Stanford,65,Washington,85
+California,65,Washington State,84
+Arizona State,60,Arizona,105
+Oregon,60,Oregon State,58
+Colorado,92,Southern California,89
+California,82,Washington,80
+Stanford,59,Washington State,72
+Utah,70,UCLA,69
+Washington State,77,Arizona,74
+Washington,84,Arizona State,82
+Oregon State,73,California,81
+Oregon,78,Stanford,65
+Washington,75,Arizona,91
+Washington State,61,Arizona State,73
+Oregon,64,California,69
+Utah,65,Colorado,89
+Oregon State,85,Stanford,73
+Southern California,62,UCLA,56
+Arizona,85,Arizona State,67
+California,78,Colorado,88
+Oregon State,71,Oregon,78
+Stanford,68,Utah,90
+UCLA,77,Washington,94
+Southern California,72,Washington State,75
+Oregon,83,Arizona,103
+California,59,Utah,88
+Southern California,82,Washington,75
+UCLA,65,Washington State,77
+Stanford,71,Colorado,81
+Colorado,79,Oregon,75
+Utah,85,Oregon State,92
+Arizona State,73,Southern California,81
+California,58,Stanford,80
+Arizona,88,UCLA,65
+Washington,74,Washington State,68
+Utah,65,Oregon,66
+Colorado,73,Oregon State,57
+Arizona,65,Southern California,78
+Arizona State,47,UCLA,59
+Stanford,87,California,76
+Oregon State,57,UCLA,67
+Arizona State,57,Utah,90
+Southern California,80,Washington,74
+Southern California,49,Arizona,70
+Utah,58,Colorado,72
+UCLA,66,Oregon,68
+Stanford,62,Washington State,79
+Oregon,67,Arizona,59
+Colorado,58,Washington State,52
+Oregon,75,Colorado,68

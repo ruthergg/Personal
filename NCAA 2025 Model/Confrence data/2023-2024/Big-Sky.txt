@@ -1,0 +1,101 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+,,,
+Portland State,57,Eastern Washington,91
+Sacramento State,58,Idaho,61
+Montana State,74,Idaho State,66
+Montana,63,Weber State,93
+Sacramento State,61,Eastern Washington,87
+Portland State,77,Idaho,72
+Montana,76,Idaho State,68
+Northern Arizona,77,Northern Colorado,92
+Montana State,64,Weber State,86
+Northern Colorado,98,Montana,92
+Northern Arizona,50,Montana State,79
+Idaho State,69,Portland State,63
+Weber State,69,Sacramento State,71
+Eastern Washington,79,Idaho,58
+Northern Arizona,47,Montana,90
+Northern Colorado,81,Montana State,90
+Weber State,66,Portland State,69
+Idaho State,64,Sacramento State,66
+Idaho,59,Idaho State,64
+Portland State,65,Northern Arizona,84
+Sacramento State,75,Northern Colorado,77
+Eastern Washington,80,Weber State,78
+Eastern Washington,79,Idaho State,67
+Montana,87,Montana State,77
+Sacramento State,61,Northern Arizona,70
+Portland State,61,Northern Colorado,90
+Idaho,65,Weber State,88
+Weber State,62,Montana,77
+Idaho State,70,Montana State,77
+Northern Colorado,74,Eastern Washington,77
+Northern Arizona,75,Idaho,60
+Montana,46,Portland State,72
+Montana State,70,Sacramento State,62
+Northern Arizona,70,Eastern Washington,85
+Northern Colorado,89,Idaho,68
+Montana State,91,Portland State,94
+Montana,70,Sacramento State,67
+Idaho State,74,Weber State,64
+Idaho,70,Montana,73
+Eastern Washington,60,Montana State,70
+Weber State,72,Northern Arizona,70
+Idaho State,86,Northern Colorado,91
+Eastern Washington,78,Montana,65
+Idaho,81,Montana State,75
+Idaho State,81,Northern Arizona,79
+Weber State,82,Northern Colorado,63
+Sacramento State,51,Portland State,58
+Eastern Washington,90,Portland State,77
+Idaho,61,Sacramento State,45
+Sacramento State,40,Idaho State,68
+Montana,94,Northern Arizona,66
+Montana State,70,Northern Colorado,73
+Portland State,72,Weber State,84
+Idaho,79,Eastern Washington,87
+Portland State,65,Idaho State,68
+Montana State,71,Northern Arizona,76
+Montana,71,Northern Colorado,87
+Sacramento State,53,Weber State,58
+Idaho State,82,Eastern Washington,88
+Weber State,70,Idaho,69
+Northern Colorado,72,Portland State,82
+Northern Arizona,73,Sacramento State,58
+Weber State,90,Eastern Washington,84
+Idaho State,53,Idaho,55
+Montana State,69,Montana,88
+Northern Arizona,68,Portland State,83
+Northern Colorado,80,Sacramento State,75
+Sacramento State,61,Montana,68
+Portland State,67,Montana State,72
+Eastern Washington,71,Northern Arizona,78
+Idaho,62,Northern Colorado,76
+Weber State,62,Idaho State,80
+Portland State,73,Montana,82
+Sacramento State,66,Montana State,63
+Idaho,86,Northern Arizona,76
+Eastern Washington,85,Northern Colorado,76
+Montana,79,Eastern Washington,89
+Montana State,62,Idaho,48
+Northern Arizona,92,Idaho State,88
+Northern Colorado,81,Weber State,85
+Montana State,104,Eastern Washington,108
+Montana,80,Idaho,57
+Northern Colorado,81,Idaho State,79
+Portland State,61,Sacramento State,73
+Northern Arizona,58,Weber State,85
+Idaho State,65,Montana,79
+Weber State,64,Montana State,76
+Northern Colorado,82,Northern Arizona,74
+Idaho,57,Portland State,72
+Eastern Washington,91,Sacramento State,88
+Sacramento State,72,Idaho,64
+Idaho State,68,Northern Arizona,60
+Sacramento State,74,Eastern Washington,69
+Idaho State,83,Northern Colorado,76
+Portland State,81,Montana,87
+Montana State,91,Weber State,82
+Idaho State,58,Montana,72
+Sacramento State,71,Montana State,74
+Montana State,85,Montana,70

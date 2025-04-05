@@ -1,0 +1,101 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+,,,
+Austin Peay,84,Bellarmine,68
+Lipscomb,72,Eastern Kentucky,80
+Jacksonville,70,Florida Gulf Coast,80
+North Florida,74,Stetson,75
+Lipscomb,81,Bellarmine,70
+Austin Peay,59,Eastern Kentucky,69
+North Florida,78,Florida Gulf Coast,58
+Queens (NC),77,Kennesaw State,80
+Central Arkansas,84,North Alabama,81
+Jacksonville,55,Stetson,71
+Stetson,70,Kennesaw State,88
+Florida Gulf Coast,75,Queens (NC),78
+Eastern Kentucky,86,Central Arkansas,63
+Bellarmine,53,North Alabama,69
+Florida Gulf Coast,75,Kennesaw State,78
+Jacksonville,74,North Florida,82
+Stetson,84,Queens (NC),66
+Bellarmine,57,Central Arkansas,59
+Austin Peay,77,Lipscomb,91
+Eastern Kentucky,81,North Alabama,72
+North Alabama,80,Austin Peay,83
+Queens (NC),77,Jacksonville,79
+Central Arkansas,96,Lipscomb,86
+Kennesaw State,75,North Florida,84
+Central Arkansas,71,Austin Peay,94
+Bellarmine,70,Eastern Kentucky,82
+Stetson,56,Florida Gulf Coast,80
+Kennesaw State,83,Jacksonville,79
+North Alabama,79,Lipscomb,88
+Queens (NC),75,North Florida,91
+North Alabama,90,Kennesaw State,84
+Central Arkansas,79,Queens (NC),96
+North Florida,71,Bellarmine,63
+Jacksonville,59,Eastern Kentucky,75
+Lipscomb,98,Florida Gulf Coast,72
+Austin Peay,82,Stetson,83
+Jacksonville,63,Bellarmine,69
+Kennesaw State,87,Central Arkansas,92
+North Florida,76,Eastern Kentucky,89
+Austin Peay,67,Florida Gulf Coast,73
+Queens (NC),84,North Alabama,90
+Lipscomb,59,Stetson,80
+Austin Peay,43,Jacksonville,63
+Lipscomb,76,North Florida,85
+Florida Gulf Coast,82,Central Arkansas,59
+Bellarmine,96,Kennesaw State,95
+Stetson,72,North Alabama,79
+Eastern Kentucky,76,Queens (NC),94
+North Florida,91,Austin Peay,95
+Stetson,73,Central Arkansas,62
+Eastern Kentucky,86,Kennesaw State,76
+Jacksonville,82,Lipscomb,84
+Florida Gulf Coast,69,North Alabama,70
+Bellarmine,75,Queens (NC),85
+Stetson,84,Bellarmine,77
+Florida Gulf Coast,82,Eastern Kentucky,90
+Kennesaw State,69,Austin Peay,85
+Central Arkansas,55,Jacksonville,59
+Queens (NC),88,Lipscomb,90
+North Alabama,79,North Florida,74
+Queens (NC),76,Austin Peay,79
+Bellarmine,52,Florida Gulf Coast,63
+North Alabama,63,Jacksonville,67
+Kennesaw State,95,Lipscomb,101
+Central Arkansas,79,North Florida,77
+Eastern Kentucky,79,Stetson,87
+Jacksonville,61,Kennesaw State,66
+North Florida,93,Queens (NC),79
+Austin Peay,77,Central Arkansas,67
+Lipscomb,70,North Alabama,75
+North Florida,82,Kennesaw State,81
+Jacksonville,65,Queens (NC),74
+Eastern Kentucky,75,Bellarmine,65
+Lipscomb,85,Central Arkansas,68
+Austin Peay,87,North Alabama,79
+Florida Gulf Coast,60,Stetson,61
+Central Arkansas,65,Bellarmine,68
+North Alabama,72,Eastern Kentucky,75
+Kennesaw State,74,Florida Gulf Coast,67
+Queens (NC),83,Stetson,75
+North Florida,50,Jacksonville,62
+Lipscomb,90,Austin Peay,85
+North Alabama,70,Bellarmine,82
+Central Arkansas,82,Eastern Kentucky,95
+Queens (NC),81,Florida Gulf Coast,90
+Kennesaw State,72,Stetson,84
+Eastern Kentucky,79,Austin Peay,83
+Stetson,86,Jacksonville,73
+Bellarmine,74,Lipscomb,90
+Florida Gulf Coast,79,North Florida,60
+Bellarmine,87,Austin Peay,90
+North Alabama,82,Central Arkansas,78
+Florida Gulf Coast,59,Jacksonville,57
+Eastern Kentucky,67,Lipscomb,81
+Stetson,59,North Florida,78
+Kennesaw State,82,Queens (NC),91
+North Alabama,71,Austin Peay,77
+Jacksonville,87,Stetson,88
+Austin Peay,91,Stetson,94

@@ -1,0 +1,99 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+Army,59,Colgate,71
+Loyola (MD),72,Holy Cross,74
+Boston University,46,Lafayette,60
+Bucknell,64,Lehigh,66
+American,58,Navy,81
+Holy Cross,64,American,75
+Army,63,Boston University,71
+Colgate,60,Bucknell,66
+Lehigh,74,Loyola (MD),80
+Lafayette,70,Navy,71
+Loyola (MD),72,Army,74
+American,54,Boston University,60
+Lafayette,62,Bucknell,65
+Lehigh,62,Colgate,67
+Navy,59,Holy Cross,70
+Bucknell,58,American,68
+Boston University,50,Colgate,87
+Holy Cross,65,Lafayette,82
+Army,74,Lehigh,69
+Navy,74,Loyola (MD),75
+American,73,Loyola (MD),54
+Lafayette,68,Army,70
+Lehigh,58,Boston University,63
+Holy Cross,82,Bucknell,86
+Colgate,73,Navy,66
+Boston University,62,Army,68
+Navy,69,Bucknell,73
+American,74,Holy Cross,65
+Colgate,90,Lafayette,67
+Loyola (MD),76,Lehigh,60
+Bucknell,80,Colgate,87
+Lehigh,67,American,68
+Army,76,Holy Cross,71
+Lafayette,80,Loyola (MD),59
+Boston University,47,Navy,62
+Colgate,77,American,81
+Bucknell,82,Boston University,85
+Lafayette,47,Lehigh,86
+Holy Cross,70,Loyola (MD),65
+Navy,66,Army,53
+Holy Cross,59,Boston University,69
+Colgate,72,Army,84
+Loyola (MD),67,Bucknell,79
+American,75,Lafayette,68
+Navy,79,Lehigh,54
+Army,68,American,71
+Lafayette,76,Colgate,61
+Lehigh,69,Holy Cross,67
+Boston University,67,Loyola (MD),69
+Bucknell,85,Navy,75
+Colgate,68,Lehigh,94
+Holy Cross,65,Army,68
+Navy,65,Boston University,87
+American,49,Bucknell,71
+Loyola (MD),71,Lafayette,58
+Bucknell,110,Army,116
+Loyola (MD),68,Colgate,82
+Boston University,52,Holy Cross,72
+Navy,51,Lafayette,61
+American,78,Lehigh,75
+Lafayette,58,American,60
+Boston University,60,Bucknell,76
+Colgate,87,Holy Cross,65
+Army,64,Loyola (MD),60
+Lehigh,60,Navy,63
+Loyola (MD),51,American,72
+Colgate,91,Boston University,93
+Bucknell,75,Lafayette,69
+Holy Cross,60,Lehigh,72
+Army,54,Navy,61
+Lehigh,50,Bucknell,67
+American,69,Army,76
+Loyola (MD),66,Boston University,68
+Navy,75,Colgate,79
+Lafayette,69,Holy Cross,74
+Boston University,44,American,48
+Lehigh,70,Lafayette,78
+Army,53,Bucknell,84
+Colgate,65,Loyola (MD),84
+Holy Cross,77,Navy,83
+Army,65,Lafayette,81
+Navy,68,American,60
+Holy Cross,73,Colgate,81
+Boston University,79,Lehigh,68
+Bucknell,70,Loyola (MD),67
+Lehigh,89,Army,67
+Lafayette,64,Boston University,66
+American,67,Colgate,59
+Bucknell,94,Holy Cross,81
+Loyola (MD),68,Navy,81
+Holy Cross,68,Lafayette,69
+Lehigh,73,Loyola (MD),77
+Lafayette,69,American,71
+Navy,86,Boston University,78
+Loyola (MD),72,Bucknell,76
+Army,55,Colgate,84
+Colgate,62,American,72
+Navy,83,Bucknell,77

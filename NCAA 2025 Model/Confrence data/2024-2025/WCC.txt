@@ -1,0 +1,107 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+Washington State,89,Portland,73
+Pacific,60,Saint Mary's (CA),70
+Loyola Marymount,55,San Francisco,70
+Pepperdine,80,Santa Clara,91
+Portland,79,Oregon State,89
+Gonzaga,89,Pepperdine,82
+Pacific,65,San Diego,75
+Santa Clara,94,San Francisco,97
+Loyola Marymount,59,Washington State,73
+Portland,50,Gonzaga,81
+Oregon State,61,Loyola Marymount,82
+San Francisco,89,Pacific,81
+Pepperdine,41,Saint Mary's (CA),71
+Santa Clara,81,San Diego,80
+Gonzaga,96,Loyola Marymount,68
+San Diego,54,Oregon State,81
+Pepperdine,87,Pacific,70
+Saint Mary's (CA),81,Portland,58
+San Francisco,82,Washington State,91
+Loyola Marymount,56,Saint Mary's (CA),81
+San Diego,80,Gonzaga,93
+Portland,72,San Francisco,81
+Oregon State,81,Santa Clara,82
+Pacific,95,Washington State,94
+Washington State,75,Gonzaga,88
+Oregon State,91,Pacific,55
+Saint Mary's (CA),103,San Diego,56
+San Francisco,54,Santa Clara,77
+Santa Clara,54,Loyola Marymount,57
+Gonzaga,89,Oregon State,97
+San Francisco,80,Pepperdine,63
+Pacific,81,Portland,84
+Washington State,65,San Diego,61
+Santa Clara,103,Gonzaga,99
+San Diego,70,Loyola Marymount,77
+Saint Mary's (CA),74,Pepperdine,50
+Oregon State,70,San Francisco,81
+Portland,70,Washington State,92
+Pepperdine,63,Oregon State,83
+Loyola Marymount,73,Pacific,68
+San Diego,82,Portland,92
+San Francisco,51,Saint Mary's (CA),71
+Washington State,65,Santa Clara,93
+Santa Clara,69,Oregon State,83
+Pacific,44,Pepperdine,60
+Gonzaga,105,Portland,62
+San Diego,69,San Francisco,81
+Saint Mary's (CA),80,Washington State,75
+Oregon State,60,Gonzaga,98
+Saint Mary's (CA),67,Santa Clara,54
+Portland,63,Loyola Marymount,88
+Washington State,68,Pacific,70
+Pepperdine,98,San Diego,90
+Portland,84,Pepperdine,64
+Gonzaga,58,Saint Mary's (CA),62
+Loyola Marymount,78,San Diego,62
+Washington State,51,San Francisco,75
+Pacific,49,Santa Clara,83
+Loyola Marymount,53,Gonzaga,73
+Washington State,74,Oregon State,82
+San Diego,69,Pacific,71
+Santa Clara,97,Portland,50
+Saint Mary's (CA),64,San Francisco,65
+San Francisco,72,Loyola Marymount,66
+Saint Mary's (CA),63,Oregon State,49
+Gonzaga,78,Pacific,61
+San Diego,70,Santa Clara,93
+Pepperdine,86,Washington State,87
+Loyola Marymount,69,Pepperdine,60
+Santa Clara,64,Saint Mary's (CA),73
+San Francisco,77,Gonzaga,88
+Pacific,83,Loyola Marymount,58
+San Diego,81,Pepperdine,88
+Oregon State,72,Portland,84
+Pepperdine,55,Gonzaga,107
+Pacific,65,Oregon State,79
+Loyola Marymount,78,Portland,89
+Washington State,56,Saint Mary's (CA),77
+San Francisco,84,San Diego,61
+Portland,66,Saint Mary's (CA),79
+Gonzaga,84,Washington State,63
+Oregon State,84,Pepperdine,78
+Pacific,58,San Francisco,71
+Loyola Marymount,61,Santa Clara,76
+Saint Mary's (CA),74,Gonzaga,67
+Pepperdine,82,Loyola Marymount,93
+Portland,81,Pacific,73
+Oregon State,83,San Diego,73
+Santa Clara,109,Washington State,79
+Gonzaga,95,Santa Clara,76
+San Francisco,74,Oregon State,72
+Saint Mary's (CA),58,Loyola Marymount,55
+Pepperdine,67,Portland,87
+San Diego,86,Washington State,93
+Santa Clara,97,Pacific,66
+Washington State,90,Pepperdine,83
+Oregon State,64,Saint Mary's (CA),74
+Portland,80,San Diego,82
+Gonzaga,95,San Francisco,75
+San Diego,81,Pacific,77
+San Diego,74,Loyola Marymount,100
+Pepperdine,86,Portland,73
+Pepperdine,77,Oregon State,73
+Loyola Marymount,77,Washington State,94
+Washington State,75,San Francisco,86
+Pepperdine,78,Santa Clara,76

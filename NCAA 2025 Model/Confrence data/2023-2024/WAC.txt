@@ -1,0 +1,119 @@
+Visitor/Neutral,PTS,Home/Neutral,PTS
+,,,
+California Baptist,91,Southern Utah,66
+Tarleton State,68,Stephen F. Austin,66
+Grand Canyon,79,Texas-Rio Grande Valley,69
+Abilene Christian,71,UT Arlington,86
+Seattle,72,Utah Valley,78
+Stephen F. Austin,79,Abilene Christian,74
+UT Arlington,69,Grand Canyon,76
+Southern Utah,63,Seattle,73
+Texas-Rio Grande Valley,75,Tarleton State,77
+Utah Valley,53,Utah Tech,65
+Utah Tech,72,California Baptist,69
+Utah Tech,53,Seattle,70
+Grand Canyon,96,Southern Utah,75
+UT Arlington,76,Tarleton State,78
+Stephen F. Austin,85,Texas-Rio Grande Valley,78
+California Baptist,58,Utah Valley,65
+Texas-Rio Grande Valley,89,Abilene Christian,91
+California Baptist,46,Seattle,48
+UT Arlington,73,Stephen F. Austin,92
+Grand Canyon,75,Utah Tech,65
+Southern Utah,62,Utah Valley,80
+Tarleton State,63,California Baptist,77
+Abilene Christian,64,Grand Canyon,74
+Seattle,80,Texas-Rio Grande Valley,81
+Utah Valley,69,UT Arlington,83
+Stephen F. Austin,70,Utah Tech,75
+Abilene Christian,53,California Baptist,68
+Tarleton State,48,Grand Canyon,74
+Stephen F. Austin,84,Southern Utah,82
+Utah Valley,68,Texas-Rio Grande Valley,76
+Seattle,75,UT Arlington,80
+Utah Valley,65,Grand Canyon,78
+Utah Tech,65,Southern Utah,75
+Seattle,84,Stephen F. Austin,89
+Abilene Christian,71,Tarleton State,79
+Texas-Rio Grande Valley,73,UT Arlington,91
+UT Arlington,67,Abilene Christian,78
+Southern Utah,76,California Baptist,83
+Grand Canyon,79,Seattle,86
+Tarleton State,77,Texas-Rio Grande Valley,73
+Utah Tech,71,Utah Valley,84
+Utah Tech,60,Abilene Christian,82
+Grand Canyon,53,Stephen F. Austin,51
+Southern Utah,73,Tarleton State,70
+California Baptist,63,Texas-Rio Grande Valley,54
+Utah Valley,61,Seattle,62
+Southern Utah,82,Abilene Christian,67
+California Baptist,81,Stephen F. Austin,79
+Utah Tech,68,Tarleton State,86
+Grand Canyon,67,UT Arlington,61
+Tarleton State,76,Abilene Christian,73
+Seattle,88,Grand Canyon,95
+UT Arlington,76,Southern Utah,68
+Utah Valley,72,Stephen F. Austin,77
+Texas-Rio Grande Valley,64,Utah Tech,81
+Seattle,61,California Baptist,60
+Texas-Rio Grande Valley,59,Southern Utah,79
+Stephen F. Austin,64,Tarleton State,75
+UT Arlington,87,Utah Tech,66
+Grand Canyon,86,Utah Valley,67
+UT Arlington,63,California Baptist,64
+Abilene Christian,52,Seattle,75
+Texas-Rio Grande Valley,84,Stephen F. Austin,92
+Southern Utah,68,Utah Tech,70
+Tarleton State,72,Utah Valley,61
+Southern Utah,65,Grand Canyon,94
+Tarleton State,82,Seattle,77
+Stephen F. Austin,63,UT Arlington,71
+California Baptist,78,Utah Tech,85
+Abilene Christian,45,Utah Valley,74
+Utah Valley,69,California Baptist,46
+Utah Tech,61,Grand Canyon,73
+Seattle,78,Southern Utah,68
+Abilene Christian,87,Texas-Rio Grande Valley,79
+Tarleton State,80,UT Arlington,78
+California Baptist,76,Grand Canyon,79
+Utah Valley,78,Southern Utah,75
+Abilene Christian,63,Stephen F. Austin,62
+UT Arlington,89,Texas-Rio Grande Valley,70
+Seattle,66,Utah Tech,65
+California Baptist,65,Abilene Christian,71
+Stephen F. Austin,49,Seattle,69
+Grand Canyon,74,Tarleton State,77
+Southern Utah,85,UT Arlington,90
+Texas-Rio Grande Valley,59,Utah Valley,70
+Grand Canyon,73,Abilene Christian,79
+Texas-Rio Grande Valley,56,Seattle,84
+California Baptist,65,Tarleton State,82
+Utah Tech,78,UT Arlington,89
+Stephen F. Austin,62,Utah Valley,71
+Stephen F. Austin,62,California Baptist,60
+Texas-Rio Grande Valley,43,Grand Canyon,72
+UT Arlington,82,Seattle,62
+Abilene Christian,77,Southern Utah,68
+Tarleton State,85,Utah Tech,74
+Texas-Rio Grande Valley,52,California Baptist,88
+Stephen F. Austin,58,Grand Canyon,80
+Tarleton State,88,Southern Utah,83
+Abilene Christian,86,Utah Tech,79
+UT Arlington,78,Utah Valley,65
+Seattle,59,Abilene Christian,64
+Southern Utah,60,Stephen F. Austin,87
+Utah Valley,63,Tarleton State,60
+Utah Tech,79,Texas-Rio Grande Valley,74
+California Baptist,57,UT Arlington,71
+Utah Valley,74,Abilene Christian,67
+Grand Canyon,68,California Baptist,47
+Utah Tech,71,Stephen F. Austin,84
+Seattle,66,Tarleton State,69
+Southern Utah,68,Texas-Rio Grande Valley,59
+Abilene Christian,57,Stephen F. Austin,60
+California Baptist,74,Utah Valley,63
+California Baptist,57,Seattle,81
+Stephen F. Austin,78,UT Arlington,109
+Seattle,72,Grand Canyon,80
+UT Arlington,87,Tarleton State,84
+UT Arlington,74,Grand Canyon,89
