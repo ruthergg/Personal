@@ -1,9 +1,49 @@
-Main Projects
+# NCAA Basket Ball Model Version 1
 
--NFL Prediction Model
+## What is this Model
 
--New York State Covid 19 Wave 3 Research
+- This model predicts the full March Madness tournament
 
--NCAA Basket Ball Prediction Model
+- It provides the Winner and the score of every game
 
--Data Ware House and Operational Data Base with ETL Process
+- It also fills the bracket automatically so repeated input is not necessary
+
+## Model Results
+
+2023
+
+- 65% Prediction Accuracy Overall 
+
+- Winner of Tournament Predicted Correctly
+
+Bracket 
+
+East
+![PNG1](Images/PNG1.png)
+
+MidWest
+![PNG2](Images/PNG2.png)
+
+South
+![PNG3](Images/PNG3.png)
+
+West
+![PNG4](Images/PNG4.png)
+
+Final Four
+![PNG5](Images/PNG5.png)
+
+2024
+
+- 71% Prediction Accuracy Overall 
+
+- Winner of Tournament Predicted Incorrectly
+
+Bracket 
+
+![PNG6](Images/PNG6.png)
+
+
+## Future Plans
+
+- None for the time being (Other Projects are more Interesting Right now)
