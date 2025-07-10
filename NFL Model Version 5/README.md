@@ -1,6 +1,6 @@
-## NFL Model Version 5
+# NFL Model Version 5
 
-# Changes from Pervious Versions Include:
+## Changes from Pervious Versions Include:
 
 - Faster Extract Transform Load Process
 
@@ -8,7 +8,7 @@
 
 - Early Neural Network Concept for Future use
 
-# What is this Model
+## What is this Model
 
 This model can predict the Winner, Spread and Over Under for any given NFL game
 
@@ -28,7 +28,7 @@ The results for the 2024 Season are as follows
 
 ![PNG2](Images/PNG3.png)
 
-# Future Plans
+## Future Plans
 
 - Create New Data Points Using Existing Stats
 
