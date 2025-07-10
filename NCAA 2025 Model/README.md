@@ -19,18 +19,23 @@
 Bracket 
 
 East
+
 ![PNG1](Images/PNG1.png)
 
 MidWest
+
 ![PNG2](Images/PNG2.png)
 
 South
+
 ![PNG3](Images/PNG3.png)
 
 West
+
 ![PNG4](Images/PNG4.png)
 
 Final Four
+
 ![PNG5](Images/PNG5.png)
 
 2024
