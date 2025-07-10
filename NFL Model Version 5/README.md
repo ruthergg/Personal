@@ -16,4 +16,4 @@ The results for the 2024 Season are as follows
 
 -Winner Correct 62% Overall and 68% when excluding weeks 1-5
 
-![PNG1]("Images\Percentage of Games Predicted Correctly by Linear Regression Model 2024.png")
+![PNG1](Images/Percentage of Games Predicted Correctly by Linear Regression Model 2024.png)
