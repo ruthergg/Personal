@@ -10,7 +10,7 @@
 
 ## Model Results
 
-2023
+2024
 
 - 65% Prediction Accuracy Overall 
 
@@ -38,7 +38,7 @@ Final Four
 
 ![PNG5](Images/PNG5.png)
 
-2024
+2025
 
 - 71% Prediction Accuracy Overall 
 
