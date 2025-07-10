@@ -1,1 +1,0 @@
-borderland echo cast doesnt work even though say doesnt show anything twitch except refresh say loading

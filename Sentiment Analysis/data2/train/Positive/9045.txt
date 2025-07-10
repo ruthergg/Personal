@@ -1,1 +1,0 @@
-nvidia ha time get 3000 series worth

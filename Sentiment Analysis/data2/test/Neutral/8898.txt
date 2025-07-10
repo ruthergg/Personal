@@ -1,1 +1,0 @@
-ubuntu freeze resume susopend hibernate 10 15 sec askubuntu com question 1247

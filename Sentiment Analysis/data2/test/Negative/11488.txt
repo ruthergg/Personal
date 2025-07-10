@@ -1,1 +1,0 @@
-rainbow6game input working get past press key screen neither controller mouse keyboard recognized input device plugged though restarting computer seems work next session problem occur

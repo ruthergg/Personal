@@ -1,1 +1,0 @@
-ubuntu 20 04 clean install login rtx 2060 super askubuntu com question 1232

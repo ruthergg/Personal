@@ -1,1 +1,0 @@
-installed nvidia driver using guide true false com 2015 fedora nv firefox still laggy figma

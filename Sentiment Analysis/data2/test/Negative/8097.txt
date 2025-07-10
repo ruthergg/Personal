@@ -1,1 +1,0 @@
-error property specified via spread updated pr 15 30 pm github com microsoft type

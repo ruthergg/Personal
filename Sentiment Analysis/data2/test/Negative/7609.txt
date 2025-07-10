@@ -1,1 +1,0 @@
-qbs dumb wrs even dumber game
